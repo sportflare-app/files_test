@@ -1,6 +1,6 @@
 {
     "appLatestVersion": "1.0",
-    "channelsDate": "18 ene 2026",
+    "channelsDate": "20 ene 2026",
     "channels":
     [
         {
@@ -993,7 +993,7 @@
         },
         {
             "id": "76",
-            "code": "eb6ffec065b26259ad3d1811e0bbb0a5332ed276",
+            "code": "9afc89481b721ce6c326c85e47148676077b8e62",
             "description": "DAZN 1 (elcano)",
             "icon": "dazn1",
             "category":
@@ -1071,7 +1071,7 @@
         },
         {
             "id": "82",
-            "code": "ae68a0835039fab28fd2314108fabd4fab33b8ab",
+            "code": "f12038c7fe603ed93fa9475d60692dd95bb7b17f",
             "description": "DAZN 2 (elcano)",
             "icon": "dazn2",
             "category":
@@ -1136,6 +1136,19 @@
         },
         {
             "id": "87",
+            "code": "e1ccce973c71547a8acda770885cb1c30a9cf3e1",
+            "description": "DAZN 3 (elcano)",
+            "icon": "dazn3",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "88",
             "code": "7e27e46c25d4308d16098d9dc67fcd8736e8c1f0",
             "description": "DAZN 4 FHD (new era)",
             "icon": "dazn4",
@@ -1148,7 +1161,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "88",
+            "id": "89",
             "code": "c015d37d1ead8155b1e7b97e743a1fe9850f0af5",
             "description": "DAZN 4 FHD (new era)",
             "icon": "dazn4",
@@ -1161,7 +1174,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "89",
+            "id": "90",
             "code": "eb884f77ce8815cf1028c4d85e8b092c27ea1693",
             "description": "DAZN 4 FHD (new era VI)",
             "icon": "dazn4",
@@ -1174,26 +1187,13 @@
             "firstElementInCategory": false
         },
         {
-            "id": "90",
-            "code": "6422e8bc34282871634c81947be093c04ad1bb29",
-            "description": "DAZN F1 FHD (new era)",
-            "icon": "daznf1",
-            "category":
-            {
-                "id": "dazn",
-                "icon": null,
-                "description": null
-            },
-            "firstElementInCategory": false
-        },
-        {
             "id": "91",
-            "code": "c9c18ae7a9dafba1caae5beb22060f9c92bba553",
-            "description": "DAZN F1 FHD (new era)",
-            "icon": "daznf1",
+            "code": "a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f",
+            "description": "DAZN Baloncesto FHD (new era VI)",
+            "icon": "daznbasket",
             "category":
             {
-                "id": "dazn",
+                "id": "daznbasket",
                 "icon": null,
                 "description": null
             },
@@ -1201,12 +1201,12 @@
         },
         {
             "id": "92",
-            "code": "515efd8115482bda8d92aa6df9a882a5e5797494",
-            "description": "DAZN F1 FHD (new era)",
-            "icon": "daznf1",
+            "code": "53962d7fb865aff73b34a3afb2905cd492f60d75",
+            "description": "DAZN Baloncesto FHD (elcano)",
+            "icon": "daznbasket",
             "category":
             {
-                "id": "dazn",
+                "id": "daznbasket",
                 "icon": null,
                 "description": null
             },
@@ -1214,12 +1214,12 @@
         },
         {
             "id": "93",
-            "code": "d5cf2dfa4fb4165ce58bf9db815088c28fec7711",
-            "description": "DAZN F1 FHD (new era)",
-            "icon": "daznf1",
+            "code": "22b702984a0db43fd371c30e2df150b2336551cd",
+            "description": "DAZN Baloncesto 2 FHD (elcano)",
+            "icon": "daznbasket",
             "category":
             {
-                "id": "dazn",
+                "id": "daznbasket",
                 "icon": null,
                 "description": null
             },
@@ -1227,12 +1227,12 @@
         },
         {
             "id": "94",
-            "code": "4bc6f4cb6697c1defc981c0afe1a4c3a62284aee",
-            "description": "DAZN F1 SD (new era)",
-            "icon": "daznf1",
+            "code": "02ec118ee4586d96df9115ffc486be9a499d00d9",
+            "description": "DAZN Baloncesto 3 FHD (elcano)",
+            "icon": "daznbasket",
             "category":
             {
-                "id": "dazn",
+                "id": "daznbasket",
                 "icon": null,
                 "description": null
             },
@@ -1240,12 +1240,12 @@
         },
         {
             "id": "95",
-            "code": "b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd",
-            "description": "DAZN F1 FHD (new era II)",
+            "code": "6422e8bc34282871634c81947be093c04ad1bb29",
+            "description": "DAZN F1 FHD (new era)",
             "icon": "daznf1",
             "category":
             {
-                "id": "dazn",
+                "id": "daznf1",
                 "icon": null,
                 "description": null
             },
@@ -1253,12 +1253,12 @@
         },
         {
             "id": "96",
-            "code": "38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7",
-            "description": "DAZN F1 FHD (new era VI)",
+            "code": "c9c18ae7a9dafba1caae5beb22060f9c92bba553",
+            "description": "DAZN F1 FHD (new era)",
             "icon": "daznf1",
             "category":
             {
-                "id": "dazn",
+                "id": "daznf1",
                 "icon": null,
                 "description": null
             },
@@ -1266,12 +1266,12 @@
         },
         {
             "id": "97",
-            "code": "3f5b7e2f883fe4b4b973e198d147a513d5c7c32a",
-            "description": "DAZN F1 FHD (new era VI)",
+            "code": "515efd8115482bda8d92aa6df9a882a5e5797494",
+            "description": "DAZN F1 FHD (new era)",
             "icon": "daznf1",
             "category":
             {
-                "id": "dazn",
+                "id": "daznf1",
                 "icon": null,
                 "description": null
             },
@@ -1279,12 +1279,12 @@
         },
         {
             "id": "98",
-            "code": "b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1",
-            "description": "DAZN F1 FHD (elcano)",
+            "code": "d5cf2dfa4fb4165ce58bf9db815088c28fec7711",
+            "description": "DAZN F1 FHD (new era)",
             "icon": "daznf1",
             "category":
             {
-                "id": "dazn",
+                "id": "daznf1",
                 "icon": null,
                 "description": null
             },
@@ -1292,12 +1292,12 @@
         },
         {
             "id": "99",
-            "code": "bcf9dc38f92e90a71b87bd54b3bac91b76d09a69",
-            "description": "DAZN F1 FHD (elcano)",
+            "code": "4bc6f4cb6697c1defc981c0afe1a4c3a62284aee",
+            "description": "DAZN F1 SD (new era)",
             "icon": "daznf1",
             "category":
             {
-                "id": "dazn",
+                "id": "daznf1",
                 "icon": null,
                 "description": null
             },
@@ -1305,12 +1305,12 @@
         },
         {
             "id": "100",
-            "code": "fd53cfa7055fe458d4f5c0ff59a06cd43723be55",
-            "description": "DAZN F1 FHD (elcano)",
+            "code": "b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd",
+            "description": "DAZN F1 FHD (new era II)",
             "icon": "daznf1",
             "category":
             {
-                "id": "dazn",
+                "id": "daznf1",
                 "icon": null,
                 "description": null
             },
@@ -1318,12 +1318,12 @@
         },
         {
             "id": "101",
-            "code": "ed6188dcbb491efeb2092c1a6199226c27f61727",
-            "description": "DAZN F1 SD (elcano)",
+            "code": "38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7",
+            "description": "DAZN F1 FHD (new era VI)",
             "icon": "daznf1",
             "category":
             {
-                "id": "dazn",
+                "id": "daznf1",
                 "icon": null,
                 "description": null
             },
@@ -1331,12 +1331,12 @@
         },
         {
             "id": "102",
-            "code": "a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f",
-            "description": "DAZN Baloncesto FHD (new era VI)",
-            "icon": "dazn",
+            "code": "3f5b7e2f883fe4b4b973e198d147a513d5c7c32a",
+            "description": "DAZN F1 FHD (new era VI)",
+            "icon": "daznf1",
             "category":
             {
-                "id": "dazn",
+                "id": "daznf1",
                 "icon": null,
                 "description": null
             },
@@ -1344,12 +1344,12 @@
         },
         {
             "id": "103",
-            "code": "217e5f172d4c704c5eec739fed672a53521e8f98",
-            "description": "DAZN Baloncesto 1 FHD (new era)",
-            "icon": "dazn",
+            "code": "b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1",
+            "description": "DAZN F1 FHD (elcano)",
+            "icon": "daznf1",
             "category":
             {
-                "id": "dazn",
+                "id": "daznf1",
                 "icon": null,
                 "description": null
             },
@@ -1357,12 +1357,12 @@
         },
         {
             "id": "104",
-            "code": "965b249321adbf3a1459f94c17f624022889fb8d",
-            "description": "DAZN Baloncesto 2 FHD (new era)",
-            "icon": "dazn",
+            "code": "bcf9dc38f92e90a71b87bd54b3bac91b76d09a69",
+            "description": "DAZN F1 FHD (elcano)",
+            "icon": "daznf1",
             "category":
             {
-                "id": "dazn",
+                "id": "daznf1",
                 "icon": null,
                 "description": null
             },
@@ -1370,12 +1370,12 @@
         },
         {
             "id": "105",
-            "code": "f4db7197aa4b9487014ba348fca3f78121ac2cae",
-            "description": "DAZN Baloncesto 3 FHD (new era)",
-            "icon": "daznbasket3",
+            "code": "fd53cfa7055fe458d4f5c0ff59a06cd43723be55",
+            "description": "DAZN F1 FHD (elcano)",
+            "icon": "daznf1",
             "category":
             {
-                "id": "dazn",
+                "id": "daznf1",
                 "icon": null,
                 "description": null
             },
@@ -1383,6 +1383,19 @@
         },
         {
             "id": "106",
+            "code": "ed6188dcbb491efeb2092c1a6199226c27f61727",
+            "description": "DAZN F1 SD (elcano)",
+            "icon": "daznf1",
+            "category":
+            {
+                "id": "daznf1",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "107",
             "code": "6a54f8fb00406c88f68ac3f3aabc7d084f9573d0",
             "description": "La 1 4K (new era)",
             "icon": "la1",
@@ -1395,7 +1408,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "107",
+            "id": "108",
             "code": "dad5e0e0825cb3e410008f1c4252387b868e740c",
             "description": "La 1 FHD (new era)",
             "icon": "la1",
@@ -1408,7 +1421,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "108",
+            "id": "109",
             "code": "7597d4feb3195079ffa606cf23a183d626ee40ba",
             "description": "La 1 FHD (new era)",
             "icon": "la1",
@@ -1421,7 +1434,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "109",
+            "id": "110",
             "code": "9934906503661142f97a044ae1509a294057c2ed",
             "description": "La 2 FHD (new era)",
             "icon": "la2",
@@ -1434,7 +1447,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "110",
+            "id": "111",
             "code": "f9d2a6d5da8d1f2423a0b6ed0047636a728040e9",
             "description": "Antena 3 FHD (new era)",
             "icon": "antena3",
@@ -1447,7 +1460,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "111",
+            "id": "112",
             "code": "8d66979e705a8b532b9243bbc0862c0f1c734ef0",
             "description": "Cuatro FHD (new era)",
             "icon": "cuatro",
@@ -1460,7 +1473,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "112",
+            "id": "113",
             "code": "8670df538a11c6ec97b3f634981ddc4409ca0333",
             "description": "Cuatro FHD (elcano)",
             "icon": "cuatro",
@@ -1473,7 +1486,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "113",
+            "id": "114",
             "code": "3e7b1911a1f83fd869b6995650a3057778259ca7",
             "description": "Telecinco FHD (new era)",
             "icon": "telecinco",
@@ -1486,7 +1499,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "114",
+            "id": "115",
             "code": "5133d1e8f45095f0b7dabbd78db0ce19a496f7bf",
             "description": "Telecinco FHD (new era)",
             "icon": "telecinco",
@@ -1499,7 +1512,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "115",
+            "id": "116",
             "code": "3d376333ee90d6db3d413fc5764ef635882076f5",
             "description": "Telecinco FHD (elcano)",
             "icon": "telecinco",
@@ -1512,7 +1525,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "116",
+            "id": "117",
             "code": "44828a7580cd99fcb36245c327889c47f34b457f",
             "description": "La Sexta FHD (new era)",
             "icon": "lasexta",
@@ -1525,7 +1538,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "117",
+            "id": "118",
             "code": "2d997da301573c5aba78f969d0d37eb6107941b2",
             "description": "Teledeporte FHD (new era)",
             "icon": "tdp",
@@ -1538,7 +1551,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "118",
+            "id": "119",
             "code": "7d910d9480e023608d1fe77eaf47c2ed34592155",
             "description": "Teledeporte FHD (new era)",
             "icon": "tdp",
@@ -1551,7 +1564,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "119",
+            "id": "120",
             "code": "9fb99c40a2c45d5c5342b30626eb56140f980612",
             "description": "Gol Play FHD (new era)",
             "icon": "golplay",
@@ -1564,7 +1577,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "120",
+            "id": "121",
             "code": "b2d560741c006fc5e4a42412bb52dbd25a6a4a3a",
             "description": "Gol Play FHD (new era)",
             "icon": "golplay",
@@ -1577,7 +1590,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "121",
+            "id": "122",
             "code": "cc5ed178702605513cd18b4899c4be954d306cca",
             "description": "24 HORAS HD (new era)",
             "icon": "golplay",
@@ -1590,7 +1603,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "122",
+            "id": "123",
             "code": "ba4597903f099695e7d6bcc5938f91cb0798006b",
             "description": "ARAGON TV HD (new era)",
             "icon": "golplay",
@@ -1603,7 +1616,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "123",
+            "id": "124",
             "code": "19cab799c86251ae8ae5f4b4faace9b78d784abc",
             "description": "Ten TV FHD (new era)",
             "icon": "golplay",
@@ -1616,7 +1629,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "124",
+            "id": "125",
             "code": "d48b299bbcd811cfd14159224bf5012a305021c1",
             "description": "TVG EUROPA HD (new era)",
             "icon": "golplay",
@@ -1629,7 +1642,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "125",
+            "id": "126",
             "code": "bae98f69fbf867550b4f73b4eb176dae84d7f909",
             "description": "Eurosport 1 FHD (new era)",
             "icon": "eurosport1",
@@ -1642,7 +1655,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "126",
+            "id": "127",
             "code": "714e14e6d6e27660fd25a75b57b0ac5580fe705d",
             "description": "Eurosport 1 FHD (new era)",
             "icon": "eurosport1",
@@ -1655,7 +1668,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "127",
+            "id": "128",
             "code": "ef2abf419586d9876370be127ad592dbb41b126a",
             "description": "Eurosport 1 FHD (new era VI)",
             "icon": "eurosport1",
@@ -1668,8 +1681,8 @@
             "firstElementInCategory": false
         },
         {
-            "id": "128",
-            "code": "c3da6c4f91d9d10ade00318a869435e19f204d0e",
+            "id": "129",
+            "code": "0db68ab752b50e6bb257eef22d102c1d29cd92ea",
             "description": "Eurosport 1 FHD (elcano)",
             "icon": "eurosport1",
             "category":
@@ -1681,8 +1694,8 @@
             "firstElementInCategory": false
         },
         {
-            "id": "129",
-            "code": "d830c1dc3b74e74f79cbb823804cf2037857e78a",
+            "id": "130",
+            "code": "a7b42f9d65636d1b1d9316d3e91ebe12b192658c",
             "description": "Eurosport 1 SD (elcano)",
             "icon": "eurosport1",
             "category":
@@ -1694,7 +1707,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "130",
+            "id": "131",
             "code": "547ab7146a86d6119c9332c011669544720124e3",
             "description": "Eurosport 1 HD (new loop)",
             "icon": "eurosport1",
@@ -1707,7 +1720,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "131",
+            "id": "132",
             "code": "dc4ccb9e72550bc72be9360aa7d77e337ad11ecc",
             "description": "Eurosport 2 FHD (new era)",
             "icon": "eurosport2",
@@ -1720,7 +1733,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "132",
+            "id": "133",
             "code": "2773b39926d15dd3d9495d94c4050604792d7031",
             "description": "Eurosport 2 FHD (new era)",
             "icon": "eurosport2",
@@ -1733,7 +1746,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "133",
+            "id": "134",
             "code": "37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf",
             "description": "Eurosport 2 FHD (new era VI)",
             "icon": "eurosport2",
@@ -1746,8 +1759,8 @@
             "firstElementInCategory": false
         },
         {
-            "id": "134",
-            "code": "0585e09bb8ac9720e4c11934f1b184e309291551",
+            "id": "135",
+            "code": "24f940fef7e270b6b3ae5d9dc713a80c8345cfba",
             "description": "Eurosport 2 FHD (elcano)",
             "icon": "eurosport2",
             "category":
@@ -1759,7 +1772,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "135",
+            "id": "136",
             "code": "5c910d614894635153a7d42de98cc2e4a958a53f",
             "description": "Eurosport 2 SD (elcano)",
             "icon": "eurosport2",
@@ -1772,7 +1785,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "136",
+            "id": "137",
             "code": "8c67cdb5ba81976662c3a67984a9545d9cfb0f70",
             "description": "M. Plus FHD (new era)",
             "icon": "mplus",
@@ -1785,7 +1798,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "137",
+            "id": "138",
             "code": "b6ffbbc72a5b6b579faf79ebac229af7a25b933b",
             "description": "M. Plus FHD (new era)",
             "icon": "mplus",
@@ -1798,7 +1811,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "138",
+            "id": "139",
             "code": "199190e3f28c1de0be34bccf0d3568dc65209b99",
             "description": "M. Plus FHD (new era VI)",
             "icon": "mplus",
@@ -1811,7 +1824,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "139",
+            "id": "140",
             "code": "5866e83279307bf919068ae7a0d250e4e424e464",
             "description": "M. Plus FHD (new era VI)",
             "icon": "mplus",
@@ -1824,7 +1837,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "140",
+            "id": "141",
             "code": "1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
             "description": "M. Plus FHD (elcano)",
             "icon": "mplus",
@@ -1837,7 +1850,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "141",
+            "id": "142",
             "code": "fbc39d8a9e5d7c9ac6a1438d440104620f54e09c",
             "description": "M. Plus 2 FHD (new era)",
             "icon": "mplus",
@@ -1850,7 +1863,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "142",
+            "id": "143",
             "code": "e19c1fc5e3ada56c60d45257f7f4ed0d14bf7003",
             "description": "M. Plus 2 FHD (new era VI)",
             "icon": "mplus",
@@ -1863,7 +1876,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "143",
+            "id": "144",
             "code": "3b2a8b41e7097c16b0468b42d7de0320886fa933",
             "description": "M. Vamos FHD (new era)",
             "icon": "vamos",
@@ -1876,7 +1889,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "144",
+            "id": "145",
             "code": "2940120bf034db79a7f5849846ccea0255172eae",
             "description": "M. Vamos FHD (new era)",
             "icon": "vamos",
@@ -1889,7 +1902,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "145",
+            "id": "146",
             "code": "651d6be899d1fafa107a265a9dc00ff914c1b548",
             "description": "M. Vamos FHD (new era)",
             "icon": "vamos",
@@ -1902,7 +1915,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "146",
+            "id": "147",
             "code": "4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde",
             "description": "M. Vamos FHD (new era VI)",
             "icon": "vamos",
@@ -1915,7 +1928,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "147",
+            "id": "148",
             "code": "c7c81acdd1a03ecc418c94c2f28e2adb0556c40b",
             "description": "M. Vamos FHD (elcano)",
             "icon": "vamos",
@@ -1928,7 +1941,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "148",
+            "id": "149",
             "code": "0e5d8c9724fa9163f49096b70484e315251eb785",
             "description": "M. Vamos SD (elcano)",
             "icon": "vamos",
@@ -1941,7 +1954,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "149",
+            "id": "150",
             "code": "9b84af74b2fa3690c519199326fc2f181b025cdd",
             "description": "M. Ellas FHD (new era)",
             "icon": "ellas",
@@ -1954,7 +1967,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "150",
+            "id": "151",
             "code": "594b59d435527327c9b6965f247995b907bfc285",
             "description": "M. Ellas FHD (new era VI)",
             "icon": "ellas",
@@ -1967,7 +1980,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "151",
+            "id": "152",
             "code": "8546cff89e4ee8bf3ad31cf6457c3bc2c4341031",
             "description": "M. Golf FHD (new era)",
             "icon": "mgolf",
@@ -1980,7 +1993,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "152",
+            "id": "153",
             "code": "9be118a64eb603b5eb62be6cf27631d3891b5174",
             "description": "M. Golf FHD (new era)",
             "icon": "mgolf",
@@ -1993,7 +2006,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "153",
+            "id": "154",
             "code": "9ed46050217ee6ed8236a64b72d7992f7b3b37f2",
             "description": "M. Golf FHD (new era VI)",
             "icon": "mgolf",
@@ -2006,7 +2019,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "154",
+            "id": "155",
             "code": "96e82321c731e41768a806992ee4d3b9b7a0e7d7",
             "description": "M. Golf 2 FHD (new era)",
             "icon": "mgolf",
@@ -2019,7 +2032,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "155",
+            "id": "156",
             "code": "c1ee6e1e0ef5928d8261f855c417de21794f437d",
             "description": "1RFEF 1 (sólo eventos) (new era V)",
             "icon": "international",
@@ -2032,7 +2045,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "156",
+            "id": "157",
             "code": "8677d339ecddd75165c0015025f598b6215974cf",
             "description": "1RFEF 2 (sólo eventos) (new era V)",
             "icon": "international",
@@ -2045,7 +2058,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "157",
+            "id": "158",
             "code": "599a2fda91aa55703e2c5a51562d9dbf5d3d31d9",
             "description": "1RFEF FHD (new era)",
             "icon": "international",
@@ -2058,7 +2071,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "158",
+            "id": "159",
             "code": "b40212c43e96e97542ea00f2129212a054853a57",
             "description": "1RFEF FHD (new era VI)",
             "icon": "international",
@@ -2071,7 +2084,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "159",
+            "id": "160",
             "code": "ca20f93ea5d9c15744e48a21b52598b9fce87425",
             "description": "ESPORT 3 FHD (new era)",
             "icon": "international",
@@ -2084,7 +2097,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "160",
+            "id": "161",
             "code": "181fcc443b953d54b00a1bf6320ccbb097e85d64",
             "description": "ESPORT 3 FHD (new era)",
             "icon": "international",
@@ -2097,7 +2110,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "161",
+            "id": "162",
             "code": "ade70f2c51cca519a4d8de1bb181af6e8532e1e1",
             "description": "Fox PREMIUM UFC (new era)",
             "icon": "international",
@@ -2110,7 +2123,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "162",
+            "id": "163",
             "code": "eb25ebc41fc51710b098f860b33b3229d11921b3",
             "description": "Mixed TV (solo eventos) (new era III)",
             "icon": "international",
@@ -2123,7 +2136,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "163",
+            "id": "164",
             "code": "ab7f9cc29ad09ee9575fed758ab317c818fdc491",
             "description": "ESPN ARGENTINA 2 HD (new era)",
             "icon": "international",
@@ -2136,7 +2149,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "164",
+            "id": "165",
             "code": "d872a44653bf2ad232d5f8476597754b69e3d56c",
             "description": "ESPN ARGENTINA 3 HD (new era)",
             "icon": "international",
@@ -2149,7 +2162,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "165",
+            "id": "166",
             "code": "216d20acdaf01a196eda71c81a7a7d5bcbe5ed58",
             "description": "ESPN ARGENTINA 4 HD (new era)",
             "icon": "international",
@@ -2162,7 +2175,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "166",
+            "id": "167",
             "code": "0b48cd93de3c714e36961a93805798307a5608ac",
             "description": "Fox Sports 2 ARG HD (new era)",
             "icon": "international",
@@ -2175,7 +2188,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "167",
+            "id": "168",
             "code": "3bdf355aeaac39d20e368ebb2ed72b9f71bf9090",
             "description": "Fox Sports 2 COL HD (new era)",
             "icon": "international",
@@ -2188,7 +2201,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "168",
+            "id": "169",
             "code": "35e17cc84abc5e393b5acd688536a9681105f2d5",
             "description": "Canal Motor (new loop)",
             "icon": "international",
@@ -2201,7 +2214,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "169",
+            "id": "170",
             "code": "442aeb6643b8836f9d00361c9e48eeb0841ddf98",
             "description": "Motors TV HD (new loop)",
             "icon": "international",
@@ -2214,7 +2227,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "170",
+            "id": "171",
             "code": "9c75e6ed0671eec6670cb2eabcc7d78267c7f404",
             "description": "Motorvision (new loop)",
             "icon": "international",
@@ -2227,7 +2240,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "171",
+            "id": "172",
             "code": "651dd1e689a9a7d3b0695191dcf44b4d6e7541eb",
             "description": "Rally TV FHD (new era)",
             "icon": "international",
@@ -2240,7 +2253,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "172",
+            "id": "173",
             "code": "8e96e35afd910d1a056dc7bf25139b8e2849b2ea",
             "description": "Rally TV (new era III)",
             "icon": "international",
@@ -2253,7 +2266,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "173",
+            "id": "174",
             "code": "b8b8c4470d3d27c75302cf49ab6c4b52a660bff3",
             "description": "Retrovision Motor (new loop)",
             "icon": "international",
@@ -2266,7 +2279,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "174",
+            "id": "175",
             "code": "8091334c82e8720fc6aa05ff0bd6d343c5bfecbf",
             "description": "Tennis Channel (new loop)",
             "icon": "international",
@@ -2279,7 +2292,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "175",
+            "id": "176",
             "code": "108aebe20efc826e56f3a1cb01117a124a6b89ad",
             "description": "UFC Fight Pass (new era)",
             "icon": "international",
@@ -2292,7 +2305,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "176",
+            "id": "177",
             "code": "74e78be7e8aa0cfb4ff4cada0eff0fc74bfdbd68",
             "description": "ESPN 2 USA HD (new era)",
             "icon": "international",
@@ -2305,7 +2318,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "177",
+            "id": "178",
             "code": "648b6c7d1b1800b6d224f22e26694f4d59ad217d",
             "description": "ESPN MX SD (new era)",
             "icon": "international",
@@ -2318,7 +2331,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "178",
+            "id": "179",
             "code": "fbc9b6650b886ba0b25c0b9468b625aa6d4a2042",
             "description": "ESPN MX 3 HD (new era)",
             "icon": "international",
@@ -2331,7 +2344,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "179",
+            "id": "180",
             "code": "93953cc10405f53e1d4ea2c30f1aad25e28a59f0",
             "description": "ESPN MX 4 SD (new era)",
             "icon": "international",
@@ -2344,7 +2357,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "180",
+            "id": "181",
             "code": "aa6faf8d1fca70d1e79ca0a6647ac15fcecea2f6",
             "description": "Mixed TV 2 (solo eventos) (new era III)",
             "icon": "international",
@@ -2357,7 +2370,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "181",
+            "id": "182",
             "code": "f183cf6c5336e109f0572ffe0b471f0f79d19cf7",
             "description": "Mixed+ (solo eventos) (new era III)",
             "icon": "international",
@@ -2370,7 +2383,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "182",
+            "id": "183",
             "code": "4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2",
             "description": "M. en Juego FHD (new era VI)",
             "icon": "international",
@@ -2383,7 +2396,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "183",
+            "id": "184",
             "code": "ffa09e597804001f634dd1829f031823411a2595",
             "description": "Pluto TV Auto Motor Sport (720p) (new loop)",
             "icon": "international",
@@ -2396,7 +2409,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "184",
+            "id": "185",
             "code": "55ff9ee631af351f365f51cf3601695bf1fd20f3",
             "description": "AMC HD (new era)",
             "icon": "others",
@@ -2409,7 +2422,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "185",
+            "id": "186",
             "code": "6e1b5fd8753352486aa932f802534a17556e1f60",
             "description": "BeMaD FHD (new era)",
             "icon": "others",
@@ -2422,7 +2435,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "186",
+            "id": "187",
             "code": "96f092e1fa99062f6da14cae230b877ad3ed849b",
             "description": "Canal Cocina FHD (new era)",
             "icon": "others",
@@ -2435,7 +2448,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "187",
+            "id": "188",
             "code": "25465ea2deba65c623b7659136abf6fcc9f5dc20",
             "description": "Dark HD (new era III)",
             "icon": "others",
@@ -2448,7 +2461,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "188",
+            "id": "189",
             "code": "155d742120310a0ca80b0c8833d94979aa7f0b08",
             "description": "Decasa FHD (new era)",
             "icon": "others",
@@ -2461,7 +2474,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "189",
+            "id": "190",
             "code": "102bcb79ca391e37ac1fc9ee77dc53440d0a59ce",
             "description": "M. Acción FHD (new era)",
             "icon": "others",
@@ -2474,7 +2487,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "190",
+            "id": "191",
             "code": "089673779de9fa7a18ac8dc26eb4a79cf5a86f96",
             "description": "M. Acción FHD (new era VI)",
             "icon": "others",
@@ -2487,7 +2500,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "191",
+            "id": "192",
             "code": "e4bce95dd4faeb9cb09ade36a0636bc4b22b691c",
             "description": "M. Cine Español FHD (new era VI)",
             "icon": "others",
@@ -2500,7 +2513,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "192",
+            "id": "193",
             "code": "6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae",
             "description": "M. Clásicos FHD (new era VI)",
             "icon": "others",
@@ -2513,7 +2526,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "193",
+            "id": "194",
             "code": "cf0cb321eed6765c2eadbd9983570f6674ce5df6",
             "description": "M. Comedia FHD (new era VI)",
             "icon": "others",
@@ -2526,7 +2539,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "194",
+            "id": "195",
             "code": "b3fc9b5647c5933b101c0b6b64322590c68587b9",
             "description": "M. Documentales FHD (new era VI)",
             "icon": "others",
@@ -2539,7 +2552,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "195",
+            "id": "196",
             "code": "a6de6a4977d7801bbddc9c7739d822f4beb358ae",
             "description": "M. Drama FHD (new era VI)",
             "icon": "others",
@@ -2552,7 +2565,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "196",
+            "id": "197",
             "code": "192f2ac5b372dfddef694e48edd2d56e308b51e7",
             "description": "M. Estrenos FHD (new era)",
             "icon": "others",
@@ -2565,7 +2578,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "197",
+            "id": "198",
             "code": "5d35f906b735f25164fa2b9b7a4e6ef91dfed131",
             "description": "M. Estrenos FHD (new era VI)",
             "icon": "others",
@@ -2578,7 +2591,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "198",
+            "id": "199",
             "code": "50553edb5e8c54d15e0d43161369b3b4cef95065",
             "description": "M. Hits FHD (new era VI)",
             "icon": "others",
@@ -2591,7 +2604,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "199",
+            "id": "200",
             "code": "7716c9fd5bd4413715e4e26f97efb91802f6ee80",
             "description": "M. Indie FHD (new era VI)",
             "icon": "others",
@@ -2604,7 +2617,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "200",
+            "id": "201",
             "code": "096b817fcc836535f608facb15fca6408fae3162",
             "description": "M. Originales FHD (new era VI)",
             "icon": "others",
@@ -2617,7 +2630,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "201",
+            "id": "202",
             "code": "8e1bbcb6a6b8b9bb0e1144454fda35531107cdb3",
             "description": "SyFy FHD (new era)",
             "icon": "others",
@@ -2630,7 +2643,7 @@
             "firstElementInCategory": false
         },
         {
-            "id": "202",
+            "id": "203",
             "code": "d7d3830018cfd93c7430c19ba703a053680476a0",
             "description": "XTRM FHD (new era)",
             "icon": "others",
