@@ -1,67 +1,69 @@
-[
-  {
-    "id": "mlaliga",
-    "icon": "mlaliga",
-    "description": "M. LaLiga"
-  },
-  {
-    "id": "mlcampeones",
-    "icon": "mlcampeones",
-    "description": "M. Liga Campeones"
-  },
-  {
-    "id": "mdeportes",
-    "icon": "mdeportes",
-    "description": "M. Deportes"
-  },
-  {
-    "id": "hypermotion",
-    "icon": "hypermotion",
-    "description": "M. LaLiga Hypermotion"
-  },
-  {
-    "id": "dazn",
-    "icon": "dazn",
-    "description": "DAZN"
-  },
-  {
-    "id": "daznf1",
-    "icon": "daznf1",
-    "description": "DAZN F1"
-  },
-  {
-    "id": "daznbasket",
-    "icon": "daznbasket",
-    "description": "DAZN Baloncesto"
-  },
-  {
-    "id": "copa",
-    "icon": "copa",
-    "description": "M. Copa"
-  },
-  {
-    "id": "tdt",
-    "icon": "tdt",
-    "description": "TDT"
-  },
-  {
-    "id": "eurosport",
-    "icon": "eurosport",
-    "description": "Eurosport"
-  },
-  {
-    "id": "mvarious",
-    "icon": "mvarious",
-    "description": "M. Varios"
-  },
-  {
-    "id": "international",
-    "icon": "international",
-    "description": "Internacional"
-  },
-  {
-    "id": "others",
-    "icon": "others",
-    "description": "Otros"
-  }
-]
+{
+   "categories":[
+      {
+         "id":"mlaliga",
+         "icon":"mlaliga",
+         "description":"M. LaLiga"
+      },
+      {
+         "id":"mlcampeones",
+         "icon":"mlcampeones",
+         "description":"M. Liga Campeones"
+      },
+      {
+         "id":"mdeportes",
+         "icon":"mdeportes",
+         "description":"M. Deportes"
+      },
+      {
+         "id":"hypermotion",
+         "icon":"hypermotion",
+         "description":"M. LaLiga Hypermotion"
+      },
+      {
+         "id":"dazn",
+         "icon":"dazn",
+         "description":"DAZN"
+      },
+      {
+         "id":"daznf1",
+         "icon":"daznf1",
+         "description":"DAZN F1"
+      },
+      {
+         "id":"daznbasket",
+         "icon":"daznbasket",
+         "description":"DAZN Baloncesto"
+      },
+      {
+         "id":"copa",
+         "icon":"copa",
+         "description":"M. Copa"
+      },
+      {
+         "id":"tdt",
+         "icon":"tdt",
+         "description":"TDT"
+      },
+      {
+         "id":"eurosport",
+         "icon":"eurosport",
+         "description":"Eurosport"
+      },
+      {
+         "id":"mvarious",
+         "icon":"mvarious",
+         "description":"M. Varios"
+      },
+      {
+         "id":"international",
+         "icon":"international",
+         "description":"Internacional"
+      },
+      {
+         "id":"others",
+         "icon":"others",
+         "description":"Otros"
+      }
+   ]
+}
