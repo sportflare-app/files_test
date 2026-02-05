@@ -1346,7 +1346,7 @@
             "id": "103",
             "code": "16598735f228c6dff542125d0e308150b50fc715",
             "description": "24H 720p (elcano)",
-            "icon": "24h",
+            "icon": "tve24h",
             "category":
             {
                 "id": "tdt",
@@ -1359,7 +1359,7 @@
             "id": "104",
             "code": "cc5ed178702605513cd18b4899c4be954d306cca",
             "description": "24H HD (new era)",
-            "icon": "24h",
+            "icon": "tve24h",
             "category":
             {
                 "id": "tdt",
