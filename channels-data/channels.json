@@ -2329,19 +2329,6 @@
                 "description": null
             },
             "firstElementInCategory": false
-        },
-        {
-            "id": "179",
-            "code": "108aebe20efc826e56f3a1cb01117a124a6b89ad",
-            "description": "Test channel",
-            "icon": "test",
-            "category":
-            {
-                "id": "test",
-                "icon": null,
-                "description": null
-            },
-            "firstElementInCategory": false
         }
     ]
 }
