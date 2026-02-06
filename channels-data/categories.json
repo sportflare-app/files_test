@@ -63,5 +63,10 @@
       "id":"others",
       "icon":"others",
       "description":"Otros"
+   },
+   {
+      "id":"test",
+      "icon":"test",
+      "description":"Test"
    }
 ]
