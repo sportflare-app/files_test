@@ -918,7 +918,7 @@
             "id": "76",
             "code": "872608e734992db636eb79426802cd08f4029afb",
             "description": "M+ Golf (sport tv)",
-            "icon": "mdeportes",
+            "icon": "mgolf",
             "category": {
                 "id": "mdeportes",
                 "icon": null,
@@ -930,7 +930,7 @@
             "id": "77",
             "code": "8546cff89e4ee8bf3ad31cf6457c3bc2c4341031",
             "description": "M+ Golf (new era)",
-            "icon": "mdeportes",
+            "icon": "mgolf",
             "category": {
                 "id": "mdeportes",
                 "icon": null,
@@ -942,7 +942,7 @@
             "id": "78",
             "code": "9be118a64eb603b5eb62be6cf27631d3891b5174",
             "description": "M+ Golf (new era)",
-            "icon": "mdeportes",
+            "icon": "mgolf",
             "category": {
                 "id": "mdeportes",
                 "icon": null,
@@ -954,7 +954,7 @@
             "id": "79",
             "code": "9bb2a7dc6c6a296609df8cc50e742a78194f7530",
             "description": "M+ Golf (elcano)",
-            "icon": "mdeportes",
+            "icon": "mgolf",
             "category": {
                 "id": "mdeportes",
                 "icon": null,
@@ -966,7 +966,7 @@
             "id": "80",
             "code": "8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
             "description": "M+ Golf (elcano)",
-            "icon": "mdeportes",
+            "icon": "mgolf",
             "category": {
                 "id": "mdeportes",
                 "icon": null,
@@ -978,7 +978,7 @@
             "id": "81",
             "code": "597cca4ef375529aaca0608b43187d99d26ca714",
             "description": "M+ Golf 2 (elcano)",
-            "icon": "mdeportes",
+            "icon": "mgolf",
             "category": {
                 "id": "mdeportes",
                 "icon": null,
@@ -990,7 +990,7 @@
             "id": "82",
             "code": "8686522bd5d0b123cbc94ad4a12f2d3a18492479",
             "description": "M+ Vamos (elcano)",
-            "icon": "mdeportes",
+            "icon": "vamos",
             "category": {
                 "id": "mdeportes",
                 "icon": null,
@@ -1002,7 +1002,7 @@
             "id": "83",
             "code": "7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
             "description": "M+ Vamos (elcano)",
-            "icon": "mdeportes",
+            "icon": "vamos",
             "category": {
                 "id": "mdeportes",
                 "icon": null,
@@ -1014,7 +1014,7 @@
             "id": "84",
             "code": "837883625d40e1eb5566eefaf74811046491f53a",
             "description": "M+ Vamos (elcano)",
-            "icon": "mdeportes",
+            "icon": "vamos",
             "category": {
                 "id": "mdeportes",
                 "icon": null,
@@ -1026,7 +1026,7 @@
             "id": "85",
             "code": "a9299052e9a16e5e2924e1fdd00b877c374f9e96",
             "description": "M+ Vamos (elcano)",
-            "icon": "mdeportes",
+            "icon": "vamos",
             "category": {
                 "id": "mdeportes",
                 "icon": null,
@@ -1038,7 +1038,7 @@
             "id": "86",
             "code": "3b2a8b41e7097c16b0468b42d7de0320886fa933",
             "description": "M+ Vamos (new era)",
-            "icon": "mdeportes",
+            "icon": "vamos",
             "category": {
                 "id": "mdeportes",
                 "icon": null,
@@ -1050,7 +1050,7 @@
             "id": "87",
             "code": "2940120bf034db79a7f5849846ccea0255172eae",
             "description": "M+ Vamos (new era)",
-            "icon": "mdeportes",
+            "icon": "vamos",
             "category": {
                 "id": "mdeportes",
                 "icon": null,
@@ -1062,7 +1062,7 @@
             "id": "88",
             "code": "651d6be899d1fafa107a265a9dc00ff914c1b548",
             "description": "M+ Vamos (new era)",
-            "icon": "mdeportes",
+            "icon": "vamos",
             "category": {
                 "id": "mdeportes",
                 "icon": null,
@@ -1074,7 +1074,7 @@
             "id": "89",
             "code": "86262568aa72b956b06ac67b1c310a32248a0e98",
             "description": "M+ Vamos (new era III)",
-            "icon": "mdeportes",
+            "icon": "vamos",
             "category": {
                 "id": "mdeportes",
                 "icon": null,
