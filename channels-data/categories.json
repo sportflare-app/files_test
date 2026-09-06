@@ -1,72 +1,72 @@
 [
    {
-      "id":"mlaliga",
-      "icon":"mlaliga",
-      "description":"M. LaLiga"
+      "id": "mlaliga",
+      "icon": "mlaliga",
+      "description": "M+ LaLiga"
    },
    {
-      "id":"mlcampeones",
-      "icon":"mlcampeones",
-      "description":"M. Liga Campeones"
+      "id": "daznlaliga",
+      "icon": "dazn",
+      "description": "DAZN LaLiga"
    },
    {
-      "id":"mdeportes",
-      "icon":"mdeportes",
-      "description":"M. Deportes"
+      "id": "mlcampeones",
+      "icon": "mlcampeones",
+      "description": "M+ Liga Campeones"
    },
    {
-      "id":"hypermotion",
-      "icon":"hypermotion",
-      "description":"M. LaLiga Hypermotion"
+      "id": "hypermotion",
+      "icon": "hypermotion",
+      "description": "M+ LaLiga Hypermotion"
    },
    {
-      "id":"dazn",
-      "icon":"dazn",
-      "description":"DAZN"
+      "id": "mdeportes",
+      "icon": "mdeportes",
+      "description": "M+ Deportes"
    },
    {
-      "id":"daznf1",
-      "icon":"daznf1",
-      "description":"DAZN F1"
+      "id": "dazn",
+      "icon": "dazn",
+      "description": "DAZN"
    },
    {
-      "id":"daznbasket",
-      "icon":"daznbasket",
-      "description":"DAZN Baloncesto"
+      "id": "daznf1",
+      "icon": "daznf1",
+      "description": "DAZN F1"
    },
    {
-      "id":"copa",
-      "icon":"copa",
-      "description":"M. Copa"
+      "id": "daznbasket",
+      "icon": "daznbasket",
+      "description": "DAZN Baloncesto"
    },
    {
-      "id":"tdt",
-      "icon":"tdt",
-      "description":"TDT"
+      "id": "copa",
+      "icon": "copa",
+      "description": "M+ Copa"
    },
    {
-      "id":"eurosport",
-      "icon":"eurosport",
-      "description":"Eurosport"
+      "id": "tdt",
+      "icon": "tdt",
+      "description": "TDT"
    },
    {
-      "id":"mvarious",
-      "icon":"mvarious",
-      "description":"M. Varios"
+      "id": "eurosport",
+      "icon": "eurosport",
+      "description": "Eurosport"
    },
    {
-      "id":"international",
-      "icon":"international",
-      "description":"Internacional"
+      "id": "mvarious",
+      "icon": "mvarious",
+      "description": "M+ Varios"
    },
    {
-      "id":"others",
-      "icon":"others",
-      "description":"Otros"
+      "id": "international",
+      "icon": "international",
+      "description": "Internacional"
    },
    {
-      "id":"test",
-      "icon":"test",
-      "description":"Test"
+      "id": "others",
+      "icon": "others",
+      "description": "Otros"
    }
 ]
