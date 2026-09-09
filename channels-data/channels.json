@@ -654,9 +654,9 @@
             "id": "54",
             "code": "34b91125bd752462f1eca2d8d52f5f40fa761aa0",
             "description": "M+ Baloncesto (elcano)",
-            "icon": "baloncesto",
+            "icon": "mbaloncesto",
             "category": {
-                "id": "baloncesto",
+                "id": "mbaloncesto",
                 "icon": null,
                 "description": null
             },
@@ -666,9 +666,9 @@
             "id": "55",
             "code": "88113ee23295b8930ae328a88a8c1b861b8f21f1",
             "description": "M+ Baloncesto 2 (elcano)",
-            "icon": "baloncesto",
+            "icon": "mbaloncesto",
             "category": {
-                "id": "baloncesto",
+                "id": "mbaloncesto",
                 "icon": null,
                 "description": null
             },
