@@ -6,7 +6,7 @@
    },
    {
       "id": "daznlaliga",
-      "icon": "dazn",
+      "icon": "daznlaliga",
       "description": "DAZN LaLiga"
    },
    {
@@ -20,9 +20,24 @@
       "description": "M+ LaLiga Hypermotion"
    },
    {
+      "id": "baloncesto",
+      "icon": "mbaloncesto",
+      "description": "M+ Baloncesto | DAZN Basket"
+   },
+   {
+      "id": "mgolf",
+      "icon": "mgolf",
+      "description": "M+ Golf"
+   },
+   {
       "id": "mdeportes",
       "icon": "mdeportes",
       "description": "M+ Deportes"
+   },
+   {
+      "id": "mvamos",
+      "icon": "mvamos",
+      "description": "M+ Vamos"
    },
    {
       "id": "dazn",
@@ -35,9 +50,9 @@
       "description": "DAZN F1"
    },
    {
-      "id": "daznbasket",
-      "icon": "daznbasket",
-      "description": "DAZN Baloncesto"
+      "id": "daznmotogp",
+      "icon": "daznmotogp",
+      "description": "DAZN Moto GP"
    },
    {
       "id": "copa",
