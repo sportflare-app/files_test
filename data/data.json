@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "0",
-          "key": "mlaliga",
+          "key": "m+laliga",
           "icon": "mlaliga",
           "label": "M+ LaLiga",
           "idCategory": "mlaliga",
@@ -53,7 +53,7 @@
         },
         {
           "id": "1",
-          "key": "mlaliga2",
+          "key": "m+laliga2",
           "icon": "mlaliga",
           "label": "M+ LaLiga 2",
           "idCategory": "mlaliga",
@@ -77,7 +77,7 @@
         },
         {
           "id": "2",
-          "key": "mlaliga3",
+          "key": "m+laliga3",
           "icon": "mlaliga",
           "label": "M+ LaLiga 3",
           "idCategory": "mlaliga",
@@ -91,7 +91,7 @@
         },
         {
           "id": "3",
-          "key": "mlaliga4",
+          "key": "m+laliga4",
           "icon": "mlaliga",
           "label": "M+ LaLiga 4",
           "idCategory": "mlaliga",
@@ -197,7 +197,7 @@
       "channels": [
         {
           "id": "0",
-          "key": "mlcampeones",
+          "key": "m+l.campeones",
           "icon": "mlcampeones",
           "label": "M+ L.Campeones",
           "idCategory": "mlcampeones",
@@ -256,7 +256,7 @@
         },
         {
           "id": "1",
-          "key": "mlcampeones2",
+          "key": "m+l.campeones2",
           "icon": "mlcampeones2",
           "label": "M+ L.Campeones 2",
           "idCategory": "mlcampeones",
@@ -320,7 +320,7 @@
         },
         {
           "id": "2",
-          "key": "mlcampeones3",
+          "key": "m+l.campeones3",
           "icon": "mlcampeones3",
           "label": "M+ L.Campeones 3",
           "idCategory": "mlcampeones",
@@ -364,7 +364,7 @@
         },
         {
           "id": "3",
-          "key": "mlcampeones4",
+          "key": "m+l.campeones4",
           "icon": "mlcampeones4",
           "label": "M+ L.Campeones 4",
           "idCategory": "mlcampeones",
@@ -393,7 +393,7 @@
         },
         {
           "id": "4",
-          "key": "mlcampeones5",
+          "key": "m+l.campeones5",
           "icon": "mlcampeones5",
           "label": "M+ L.Campeones 5",
           "idCategory": "mlcampeones",
@@ -422,7 +422,7 @@
         },
         {
           "id": "5",
-          "key": "mlcampeones6",
+          "key": "m+l.campeones6",
           "icon": "mlcampeones6",
           "label": "M+ L.Campeones 6",
           "idCategory": "mlcampeones",
@@ -484,7 +484,7 @@
       "channels": [
         {
           "id": "0",
-          "key": "mbaloncesto",
+          "key": "m+baloncesto",
           "icon": "mbaloncesto",
           "label": "M+ Baloncesto",
           "idCategory": "mbaloncesto",
@@ -505,7 +505,7 @@
       "channels": [
         {
           "id": "0",
-          "key": "mgolf",
+          "key": "m+golf",
           "icon": "mgolf",
           "label": "M+ Golf",
           "idCategory": "mgolf",
@@ -539,7 +539,7 @@
         },
         {
           "id": "1",
-          "key": "mgolf2",
+          "key": "m+golf2",
           "icon": "mgolf",
           "label": "M+ Golf 2",
           "idCategory": "mgolf",
@@ -579,7 +579,7 @@
         },
         {
           "id": "1",
-          "key": "mdeportes",
+          "key": "m+deportes",
           "icon": "mdeportes",
           "label": "M+ Deportes",
           "idCategory": "mdeportes",
@@ -628,7 +628,7 @@
         },
         {
           "id": "2",
-          "key": "mdeportes2",
+          "key": "m+deportes2",
           "icon": "mdeportes",
           "label": "M+ Deportes 2",
           "idCategory": "mdeportes",
@@ -672,7 +672,7 @@
         },
         {
           "id": "3",
-          "key": "mdeportes3",
+          "key": "m+deportes3",
           "icon": "mdeportes",
           "label": "M+ Deportes 3",
           "idCategory": "mdeportes",
@@ -696,7 +696,7 @@
         },
         {
           "id": "4",
-          "key": "mdeportes4",
+          "key": "m+deportes4",
           "icon": "mdeportes",
           "label": "M+ Deportes 4",
           "idCategory": "mdeportes",
@@ -720,7 +720,7 @@
         },
         {
           "id": "5",
-          "key": "mdeportes5",
+          "key": "m+deportes5",
           "icon": "mdeportes",
           "label": "M+ Deportes 5",
           "idCategory": "mdeportes",
@@ -739,7 +739,7 @@
         },
         {
           "id": "6",
-          "key": "mdeportes6",
+          "key": "m+deportes6",
           "icon": "mdeportes",
           "label": "M+ Deportes 6",
           "idCategory": "mdeportes",
@@ -760,7 +760,7 @@
       "channels": [
         {
           "id": "0",
-          "key": "mvamos",
+          "key": "m+vamos",
           "icon": "mvamos",
           "label": "M+ Vamos",
           "idCategory": "mvamos",
@@ -1365,7 +1365,7 @@
       "channels": [
         {
           "id": "0",
-          "key": "mplus",
+          "key": "m+plus",
           "icon": "mplus",
           "label": "M+ Plus",
           "idCategory": "mvarious",
@@ -1455,7 +1455,7 @@
         },
         {
           "id": "5",
-          "key": "maccion",
+          "key": "m+acción",
           "icon": "maccion",
           "label": "M+ Acción",
           "idCategory": "mvarious",
@@ -1469,7 +1469,7 @@
         },
         {
           "id": "6",
-          "key": "mcineespanol",
+          "key": "m+cineespañol",
           "icon": "mcineespanol",
           "label": "M+ Cine Español",
           "idCategory": "mvarious",
@@ -1483,7 +1483,7 @@
         },
         {
           "id": "7",
-          "key": "mcomedia",
+          "key": "m+comedia",
           "icon": "mcomedia",
           "label": "M+ Comedia",
           "idCategory": "mvarious",
@@ -1497,7 +1497,7 @@
         },
         {
           "id": "8",
-          "key": "mdocumentales",
+          "key": "m+documentales",
           "icon": "mdocumentales",
           "label": "M+ Documentales",
           "idCategory": "mvarious",
@@ -1511,7 +1511,7 @@
         },
         {
           "id": "9",
-          "key": "mestrenos",
+          "key": "m+estrenos",
           "icon": "mestrenos",
           "label": "M+ Estrenos",
           "idCategory": "mvarious",
@@ -1530,7 +1530,7 @@
         },
         {
           "id": "10",
-          "key": "mhits",
+          "key": "m+hits",
           "icon": "mhits",
           "label": "M+ Hits",
           "idCategory": "mvarious",
@@ -1544,7 +1544,7 @@
         },
         {
           "id": "11",
-          "key": "moriginales",
+          "key": "m+originales",
           "icon": "moriginales",
           "label": "M+ Originales",
           "idCategory": "mvarious",
@@ -1558,7 +1558,7 @@
         },
         {
           "id": "12",
-          "key": "mfanzone",
+          "key": "m+fanzone",
           "icon": "mfanzone",
           "label": "M+ Fanzone",
           "idCategory": "mvarious",
@@ -1724,7 +1724,7 @@
         },
         {
           "id": "10",
-          "key": "canal11rfef",
+          "key": "canal1(1rfef)",
           "icon": "others",
           "label": "Canal 1 (1RFEF)",
           "idCategory": "others",
@@ -1767,7 +1767,7 @@
         },
         {
           "id": "12",
-          "key": "canal21rfef",
+          "key": "canal2(1rfef)",
           "icon": "others",
           "label": "Canal 2 (1RFEF)",
           "idCategory": "others",
