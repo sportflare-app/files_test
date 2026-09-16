@@ -12,35 +12,42 @@
           "key": "mlaliga",
           "icon": "mlaliga",
           "label": "M+ LaLiga",
-          "categoryLabel": "M+ LaLiga",
+          "idCategory": "mlaliga",
           "sources": [
             {
               "label": "sport tv",
-              "code": "31c19ffb3472c289c5bbbbc174449c8ed0d19e38"
+              "code": "31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "f863873de9f7b2996dde19a0657dd89835af3007"
+              "code": "f863873de9f7b2996dde19a0657dd89835af3007",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "3ace1463a7cad979c3a4002b245487e9982e9f1a"
+              "code": "3ace1463a7cad979c3a4002b245487e9982e9f1a",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "0febfb5cac3384f487d55c559bbfc877db2d0357"
+              "code": "0febfb5cac3384f487d55c559bbfc877db2d0357",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259"
+              "code": "3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259",
+              "quality": "HD"
             },
             {
               "label": "new era II",
-              "code": "d4ff041287a43e3114d411d671c4b4e92e21f33y"
+              "code": "d4ff041287a43e3114d411d671c4b4e92e21f33y",
+              "quality": "HD"
             },
             {
               "label": "new era VI",
-              "code": "b3bdd6ef7f795c4f321a3ce5cf4907338f462929"
+              "code": "b3bdd6ef7f795c4f321a3ce5cf4907338f462929",
+              "quality": "HD"
             }
           ]
         },
@@ -49,19 +56,22 @@
           "key": "mlaliga2",
           "icon": "mlaliga",
           "label": "M+ LaLiga 2",
-          "categoryLabel": "M+ LaLiga",
+          "idCategory": "mlaliga",
           "sources": [
             {
               "label": "sport tv",
-              "code": "b8eb9c9868d487402569bba2d97a8af113d033fe"
+              "code": "b8eb9c9868d487402569bba2d97a8af113d033fe",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "d16a9b50042cb9d6e648cae3b1472f655c4def61"
+              "code": "d16a9b50042cb9d6e648cae3b1472f655c4def61",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "67966d205968de9cf95dcffe3b2ff6888b106634"
+              "code": "67966d205968de9cf95dcffe3b2ff6888b106634",
+              "quality": "HD"
             }
           ]
         },
@@ -70,11 +80,12 @@
           "key": "mlaliga3",
           "icon": "mlaliga",
           "label": "M+ LaLiga 3",
-          "categoryLabel": "M+ LaLiga",
+          "idCategory": "mlaliga",
           "sources": [
             {
               "label": "sport tv",
-              "code": "571ce113b9d600a145766443d7417eccab2e1846"
+              "code": "571ce113b9d600a145766443d7417eccab2e1846",
+              "quality": "HD"
             }
           ]
         },
@@ -83,11 +94,12 @@
           "key": "mlaliga4",
           "icon": "mlaliga",
           "label": "M+ LaLiga 4",
-          "categoryLabel": "M+ LaLiga",
+          "idCategory": "mlaliga",
           "sources": [
             {
               "label": "sport tv",
-              "code": "22178d72e0f255dedd7e56f9474fea879289a6f1"
+              "code": "22178d72e0f255dedd7e56f9474fea879289a6f1",
+              "quality": "HD"
             }
           ]
         }
@@ -103,51 +115,62 @@
           "key": "daznlaliga1",
           "icon": "daznlaliga1",
           "label": "DAZN LaLiga 1",
-          "categoryLabel": "DAZN LaLiga",
+          "idCategory": "daznlaliga",
           "sources": [
             {
               "label": "sport tv",
-              "code": "dda5d2cace9bc4cb0918e62bc50d657d4a10496a"
+              "code": "dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "eb4975702ceadca7ed74f8707e17a9f55569dbb9"
+              "code": "eb4975702ceadca7ed74f8707e17a9f55569dbb9",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "385abcf801b787eec6ed6624908758bb165c0a55"
+              "code": "385abcf801b787eec6ed6624908758bb165c0a55",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "cc108ae39f92c48f6c946763047bd1c9b7b7d889"
+              "code": "cc108ae39f92c48f6c946763047bd1c9b7b7d889",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "9c588ac92554746c489bc553773d959f6d2dfd8e"
+              "code": "9c588ac92554746c489bc553773d959f6d2dfd8e",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "9c75f1d190c518cfe0f236415b8dccc1f676ef3b"
+              "code": "9c75f1d190c518cfe0f236415b8dccc1f676ef3b",
+              "quality": "HD"
             },
             {
               "label": "new loop",
-              "code": "303c31ee08b34b4ae3486decca2df98089e4e488"
+              "code": "303c31ee08b34b4ae3486decca2df98089e4e488",
+              "quality": "HD"
             },
             {
               "label": "new loop",
-              "code": "244a6fd6428f6ad13034339cb382e01a0e779d9d"
+              "code": "244a6fd6428f6ad13034339cb382e01a0e779d9d",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "19f28f60c908f987b1a03da078e63320d7bf29e8"
+              "code": "19f28f60c908f987b1a03da078e63320d7bf29e8",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "d1596a3988b84a4d2711fd380eb8a53256ad74ae"
+              "code": "d1596a3988b84a4d2711fd380eb8a53256ad74ae",
+              "quality": "HD"
             },
             {
               "label": "new era VI",
-              "code": "71cb5e2567a8b39f5bdc4fa791992781b052f0bc"
+              "code": "71cb5e2567a8b39f5bdc4fa791992781b052f0bc",
+              "quality": "HD"
             }
           ]
         },
@@ -156,11 +179,12 @@
           "key": "daznlaliga2",
           "icon": "daznlaliga2",
           "label": "DAZN LaLiga 2",
-          "categoryLabel": "DAZN LaLiga",
+          "idCategory": "daznlaliga",
           "sources": [
             {
               "label": "elcano",
-              "code": "465075c02b7284f564911bd63d1c6f0a8d464be7"
+              "code": "465075c02b7284f564911bd63d1c6f0a8d464be7",
+              "quality": "HD"
             }
           ]
         }
@@ -175,48 +199,58 @@
           "id": "0",
           "key": "mlcampeones",
           "icon": "mlcampeones",
-          "label": "M+ L.campeones",
-          "categoryLabel": "M+ L.Campeones",
+          "label": "M+ L.Campeones",
+          "idCategory": "mlcampeones",
           "sources": [
             {
               "label": "sport tv",
-              "code": "e572a5178ff72eed7d1d751a18b4b3419699f370"
+              "code": "e572a5178ff72eed7d1d751a18b4b3419699f370",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439"
+              "code": "63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "931fd4c24398a24beb9b6ede856ca34339ff2c22"
+              "code": "931fd4c24398a24beb9b6ede856ca34339ff2c22",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920"
+              "code": "91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "97df5b7824948972d041d8ca2a4d29c90b641bc9"
+              "code": "97df5b7824948972d041d8ca2a4d29c90b641bc9",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "91af434b0bb521189286f8cbbab1aed39d7536fe"
+              "code": "91af434b0bb521189286f8cbbab1aed39d7536fe",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc"
+              "code": "c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a"
+              "code": "778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "afbf2a479c5a5072698139f0f556ef3e77a99bd0"
+              "code": "afbf2a479c5a5072698139f0f556ef3e77a99bd0",
+              "quality": "HD"
             },
             {
               "label": "new era II",
-              "code": "afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f"
+              "code": "afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f",
+              "quality": "HD"
             }
           ]
         },
@@ -224,52 +258,63 @@
           "id": "1",
           "key": "mlcampeones2",
           "icon": "mlcampeones2",
-          "label": "M+ L.campeones 2",
-          "categoryLabel": "M+ L.Campeones",
+          "label": "M+ L.Campeones 2",
+          "idCategory": "mlcampeones",
           "sources": [
             {
               "label": "sport tv",
-              "code": "338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea"
+              "code": "338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "47188da7d2e4beaee82cff174f223fdd23f78fa6"
+              "code": "47188da7d2e4beaee82cff174f223fdd23f78fa6",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "38f7b2044e549df2039ff26cefa6f9a60c854d5e"
+              "code": "38f7b2044e549df2039ff26cefa6f9a60c854d5e",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "8156912ae14f6174a19c8a4efcf36a06e847f632"
+              "code": "8156912ae14f6174a19c8a4efcf36a06e847f632",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "bb26037a253866d341778181eff5c8637240d615"
+              "code": "bb26037a253866d341778181eff5c8637240d615",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "74ab4e4ec7e2da001f473ca40893b7307b8029c5"
+              "code": "74ab4e4ec7e2da001f473ca40893b7307b8029c5",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb"
+              "code": "c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "4fc6d0331830ad8743abab2fe2473b63bdfbc49f"
+              "code": "4fc6d0331830ad8743abab2fe2473b63bdfbc49f",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "498c56bd00f535e440c392de5af992421a31355c"
+              "code": "498c56bd00f535e440c392de5af992421a31355c",
+              "quality": "HD"
             },
             {
               "label": "new era II",
-              "code": "4b18a3b32df5960ed950fa907f8d509b1ad2a188"
+              "code": "4b18a3b32df5960ed950fa907f8d509b1ad2a188",
+              "quality": "HD"
             },
             {
               "label": "new era II",
-              "code": "ea03cc51980996ba6f2da49e30eee1de8a66ae54"
+              "code": "ea03cc51980996ba6f2da49e30eee1de8a66ae54",
+              "quality": "HD"
             }
           ]
         },
@@ -277,36 +322,43 @@
           "id": "2",
           "key": "mlcampeones3",
           "icon": "mlcampeones3",
-          "label": "M+ L.campeones 3",
-          "categoryLabel": "M+ L.Campeones",
+          "label": "M+ L.Campeones 3",
+          "idCategory": "mlcampeones",
           "sources": [
             {
               "label": "sport tv",
-              "code": "90f7941c6bf7ca4b18084a1dca7bc15b9b179373"
+              "code": "90f7941c6bf7ca4b18084a1dca7bc15b9b179373",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "5b7f54b12e0f96ceba1299f44eac4b0f97403e4e"
+              "code": "5b7f54b12e0f96ceba1299f44eac4b0f97403e4e",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "cfc371890bfb502737a26de5215e50929c52d0f9"
+              "code": "cfc371890bfb502737a26de5215e50929c52d0f9",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "320bee0fbdf2a168d47810236985a7c40b4f85c9"
+              "code": "320bee0fbdf2a168d47810236985a7c40b4f85c9",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "4416843c96b7f7a1bc55c476091a60fff0922bc7"
+              "code": "4416843c96b7f7a1bc55c476091a60fff0922bc7",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "85a8e0675bc27ddfd403b8f72953c606d07a8de8"
+              "code": "85a8e0675bc27ddfd403b8f72953c606d07a8de8",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "07976f79d17a439d7aff46cf0d4cfdf80311caf5"
+              "code": "07976f79d17a439d7aff46cf0d4cfdf80311caf5",
+              "quality": "HD"
             }
           ]
         },
@@ -314,24 +366,28 @@
           "id": "3",
           "key": "mlcampeones4",
           "icon": "mlcampeones4",
-          "label": "M+ L.campeones 4",
-          "categoryLabel": "M+ L.Campeones",
+          "label": "M+ L.Campeones 4",
+          "idCategory": "mlcampeones",
           "sources": [
             {
               "label": "sport tv",
-              "code": "6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661"
+              "code": "6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "5ba9368d80d2f87ac1c6d71df4e7e6e26e6911f2"
+              "code": "5ba9368d80d2f87ac1c6d71df4e7e6e26e6911f2",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "64f01629d4a19e70efd9e6778c397282ba087547"
+              "code": "64f01629d4a19e70efd9e6778c397282ba087547",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "e9f4493d2d851f4636720f639113e05b4a21a74c"
+              "code": "e9f4493d2d851f4636720f639113e05b4a21a74c",
+              "quality": "HD"
             }
           ]
         },
@@ -339,24 +395,28 @@
           "id": "4",
           "key": "mlcampeones5",
           "icon": "mlcampeones5",
-          "label": "M+ L.campeones 5",
-          "categoryLabel": "M+ L.Campeones",
+          "label": "M+ L.Campeones 5",
+          "idCategory": "mlcampeones",
           "sources": [
             {
               "label": "elcano",
-              "code": "3e430d14ef1cf1c147c7b06332081291e05a1431"
+              "code": "3e430d14ef1cf1c147c7b06332081291e05a1431",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "5620c0ce3dcbf14a6375cb2c2d681207f45eb97d"
+              "code": "5620c0ce3dcbf14a6375cb2c2d681207f45eb97d",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "5bed693c6a22de55f1061c509bba5e3aeb2ea2aa"
+              "code": "5bed693c6a22de55f1061c509bba5e3aeb2ea2aa",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5"
+              "code": "cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5",
+              "quality": "HD"
             }
           ]
         },
@@ -364,12 +424,13 @@
           "id": "5",
           "key": "mlcampeones6",
           "icon": "mlcampeones6",
-          "label": "M+ L.campeones 6",
-          "categoryLabel": "M+ L.Campeones",
+          "label": "M+ L.Campeones 6",
+          "idCategory": "mlcampeones",
           "sources": [
             {
               "label": "elcano",
-              "code": "373b2ff67490d1ed560a33156b34686923159874"
+              "code": "373b2ff67490d1ed560a33156b34686923159874",
+              "quality": "HD"
             }
           ]
         }
@@ -385,27 +446,32 @@
           "key": "hypermotion",
           "icon": "hypermotion",
           "label": "Hypermotion",
-          "categoryLabel": "LaLiga Hypermotion",
+          "idCategory": "hypermotion",
           "sources": [
             {
               "label": "elcano",
-              "code": "1f75d92098580443857caa95a719103cb83781b0"
+              "code": "1f75d92098580443857caa95a719103cb83781b0",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "2c54a4def58f41fc0d2163450a63f12955b656aa"
+              "code": "2c54a4def58f41fc0d2163450a63f12955b656aa",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "e4cbd1a425120b1f44b523a55bd1a98c31cad9fe"
+              "code": "e4cbd1a425120b1f44b523a55bd1a98c31cad9fe",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "ee8ce83c44dc9b1e331672e2a0166e2830b00040"
+              "code": "ee8ce83c44dc9b1e331672e2a0166e2830b00040",
+              "quality": "HD"
             },
             {
               "label": "new era VI",
-              "code": "fc129b39c253b887563c3f0dce5fca7e699c3047"
+              "code": "fc129b39c253b887563c3f0dce5fca7e699c3047",
+              "quality": "HD"
             }
           ]
         }
@@ -421,11 +487,12 @@
           "key": "mbaloncesto",
           "icon": "mbaloncesto",
           "label": "M+ Baloncesto",
-          "categoryLabel": "M+ Baloncesto | DAZN Basket",
+          "idCategory": "mbaloncesto",
           "sources": [
             {
               "label": "elcano",
-              "code": "34b91125bd752462f1eca2d8d52f5f40fa761aa0"
+              "code": "34b91125bd752462f1eca2d8d52f5f40fa761aa0",
+              "quality": "HD"
             }
           ]
         }
@@ -441,27 +508,32 @@
           "key": "mgolf",
           "icon": "mgolf",
           "label": "M+ Golf",
-          "categoryLabel": "M+ Golf",
+          "idCategory": "mgolf",
           "sources": [
             {
               "label": "sport tv",
-              "code": "872608e734992db636eb79426802cd08f4029afb"
+              "code": "872608e734992db636eb79426802cd08f4029afb",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "9bb2a7dc6c6a296609df8cc50e742a78194f7530"
+              "code": "9bb2a7dc6c6a296609df8cc50e742a78194f7530",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "8121478d3d3e563ad6b98018bc1c0aeb2f6166eb"
+              "code": "8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "8546cff89e4ee8bf3ad31cf6457c3bc2c4341031"
+              "code": "8546cff89e4ee8bf3ad31cf6457c3bc2c4341031",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "9be118a64eb603b5eb62be6cf27631d3891b5174"
+              "code": "9be118a64eb603b5eb62be6cf27631d3891b5174",
+              "quality": "HD"
             }
           ]
         },
@@ -470,15 +542,17 @@
           "key": "mgolf2",
           "icon": "mgolf",
           "label": "M+ Golf 2",
-          "categoryLabel": "M+ Golf",
+          "idCategory": "mgolf",
           "sources": [
             {
               "label": "elcano",
-              "code": "597cca4ef375529aaca0608b43187d99d26ca714"
+              "code": "597cca4ef375529aaca0608b43187d99d26ca714",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "882074140fca664e119a43294afa2fb4a64917ef"
+              "code": "882074140fca664e119a43294afa2fb4a64917ef",
+              "quality": "HD"
             }
           ]
         }
@@ -494,11 +568,12 @@
           "key": "foxdeportesar",
           "icon": "mdeportes",
           "label": "Fox Deportes Ar",
-          "categoryLabel": "M+ Deportes",
+          "idCategory": "mdeportes",
           "sources": [
             {
               "label": "new era",
-              "code": "f2f318919c0035b8979153599a90597671eeefc3"
+              "code": "f2f318919c0035b8979153599a90597671eeefc3",
+              "quality": "HD"
             }
           ]
         },
@@ -507,39 +582,47 @@
           "key": "mdeportes",
           "icon": "mdeportes",
           "label": "M+ Deportes",
-          "categoryLabel": "M+ Deportes",
+          "idCategory": "mdeportes",
           "sources": [
             {
               "label": "elcano",
-              "code": "6e031aed136bf97d8667fcd5fc49c73256928281"
+              "code": "6e031aed136bf97d8667fcd5fc49c73256928281",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "7f8b4f57bf234510d3f607492508d68167d4b0ab"
+              "code": "7f8b4f57bf234510d3f607492508d68167d4b0ab",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "c6a824a81b36f6c3529826477caf2ad94b45776d"
+              "code": "c6a824a81b36f6c3529826477caf2ad94b45776d",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "cf5327fe9c962a29dfff3868f4349ff2b0b4662f"
+              "code": "cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "b35b3eb8e22365bf3469efd6d1f3b82618a6e18a"
+              "code": "b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "3b50a1dca0977e3761d016edd79314ab797f74f6"
+              "code": "3b50a1dca0977e3761d016edd79314ab797f74f6",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "332d8fdeb9c51385230b8c9448e047ccc4a6355d"
+              "code": "332d8fdeb9c51385230b8c9448e047ccc4a6355d",
+              "quality": "HD"
             },
             {
               "label": "new era III",
-              "code": "af393f93814d03160d48d2730759593b7bea5b47"
+              "code": "af393f93814d03160d48d2730759593b7bea5b47",
+              "quality": "HD"
             }
           ]
         },
@@ -548,35 +631,42 @@
           "key": "mdeportes2",
           "icon": "mdeportes",
           "label": "M+ Deportes 2",
-          "categoryLabel": "M+ Deportes",
+          "idCategory": "mdeportes",
           "sources": [
             {
               "label": "sport tv",
-              "code": "3afe1af18f8ff78e9946856911b00c67477052b5"
+              "code": "3afe1af18f8ff78e9946856911b00c67477052b5",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "6b15368775693c33c49fab02e7900c1976a5da90"
+              "code": "6b15368775693c33c49fab02e7900c1976a5da90",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "fd2aea1aa8fcddebfda1644118c6806230a1d539"
+              "code": "fd2aea1aa8fcddebfda1644118c6806230a1d539",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "3774d8feab016ca766b35ea8488e7514ca30e0ee"
+              "code": "3774d8feab016ca766b35ea8488e7514ca30e0ee",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "8cd8fd69c6755ec452e9e74b33a0d1a653452191"
+              "code": "8cd8fd69c6755ec452e9e74b33a0d1a653452191",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "edd06f11e1cef292a1d795e15207ef2f580e298c"
+              "code": "edd06f11e1cef292a1d795e15207ef2f580e298c",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "6e212a916c83638268047dd2757c95b14f7d25a3"
+              "code": "6e212a916c83638268047dd2757c95b14f7d25a3",
+              "quality": "HD"
             }
           ]
         },
@@ -585,19 +675,22 @@
           "key": "mdeportes3",
           "icon": "mdeportes",
           "label": "M+ Deportes 3",
-          "categoryLabel": "M+ Deportes",
+          "idCategory": "mdeportes",
           "sources": [
             {
               "label": "sport tv",
-              "code": "39fefdecfc953dcf6e7c589739bf486c2e605ed0"
+              "code": "39fefdecfc953dcf6e7c589739bf486c2e605ed0",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "f4d9011721fad5098febbe4d7c078a582e176a01"
+              "code": "f4d9011721fad5098febbe4d7c078a582e176a01",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "84aed52c5deb78f58595d88250e7a2bd04dfd810"
+              "code": "84aed52c5deb78f58595d88250e7a2bd04dfd810",
+              "quality": "HD"
             }
           ]
         },
@@ -606,19 +699,22 @@
           "key": "mdeportes4",
           "icon": "mdeportes",
           "label": "M+ Deportes 4",
-          "categoryLabel": "M+ Deportes",
+          "idCategory": "mdeportes",
           "sources": [
             {
               "label": "sport tv",
-              "code": "8b5f9d967384afab226dd759e6e9dfaee9993869"
+              "code": "8b5f9d967384afab226dd759e6e9dfaee9993869",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "2a5d90651e212106434edea5bfbba1a843b7b97c"
+              "code": "2a5d90651e212106434edea5bfbba1a843b7b97c",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "7bede102385c65a545db531af476ef18c31f6258"
+              "code": "7bede102385c65a545db531af476ef18c31f6258",
+              "quality": "HD"
             }
           ]
         },
@@ -627,15 +723,17 @@
           "key": "mdeportes5",
           "icon": "mdeportes",
           "label": "M+ Deportes 5",
-          "categoryLabel": "M+ Deportes",
+          "idCategory": "mdeportes",
           "sources": [
             {
               "label": "sport tv",
-              "code": "3230cdca852a10325222e3c546e499e31d547a90"
+              "code": "3230cdca852a10325222e3c546e499e31d547a90",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "15ec214bb10925dadd16a1716bb2042af6008a93"
+              "code": "15ec214bb10925dadd16a1716bb2042af6008a93",
+              "quality": "HD"
             }
           ]
         },
@@ -644,11 +742,12 @@
           "key": "mdeportes6",
           "icon": "mdeportes",
           "label": "M+ Deportes 6",
-          "categoryLabel": "M+ Deportes",
+          "idCategory": "mdeportes",
           "sources": [
             {
               "label": "sport tv",
-              "code": "8f982a0d6e3196c12d0034142b65008321150f7c"
+              "code": "8f982a0d6e3196c12d0034142b65008321150f7c",
+              "quality": "HD"
             }
           ]
         }
@@ -664,47 +763,57 @@
           "key": "mvamos",
           "icon": "mvamos",
           "label": "M+ Vamos",
-          "categoryLabel": "M+ Vamos",
+          "idCategory": "mvamos",
           "sources": [
             {
               "label": "elcano",
-              "code": "866a8af8faacf8fc9eb997ab5a68b4dfee4edc77"
+              "code": "866a8af8faacf8fc9eb997ab5a68b4dfee4edc77",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "7a053fc56fc93f42ec656382408e647055110e3e"
+              "code": "7a053fc56fc93f42ec656382408e647055110e3e",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc"
+              "code": "ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "26159ba451167e962f4f9236ab4c7626f7eb4e49"
+              "code": "26159ba451167e962f4f9236ab4c7626f7eb4e49",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c"
+              "code": "0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "837883625d40e1eb5566eefaf74811046491f53a"
+              "code": "837883625d40e1eb5566eefaf74811046491f53a",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "3b2a8b41e7097c16b0468b42d7de0320886fa933"
+              "code": "3b2a8b41e7097c16b0468b42d7de0320886fa933",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "2940120bf034db79a7f5849846ccea0255172eae"
+              "code": "2940120bf034db79a7f5849846ccea0255172eae",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "651d6be899d1fafa107a265a9dc00ff914c1b548"
+              "code": "651d6be899d1fafa107a265a9dc00ff914c1b548",
+              "quality": "HD"
             },
             {
               "label": "new era III",
-              "code": "86262568aa72b956b06ac67b1c310a32248a0e98"
+              "code": "86262568aa72b956b06ac67b1c310a32248a0e98",
+              "quality": "HD"
             }
           ]
         }
@@ -720,43 +829,52 @@
           "key": "dazn1",
           "icon": "dazn1",
           "label": "DAZN 1",
-          "categoryLabel": "DAZN",
+          "idCategory": "dazn",
           "sources": [
             {
               "label": "sport tv",
-              "code": "d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151"
+              "code": "d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "a116ce3ff95c41c60e987e2b1aa247007f707884"
+              "code": "a116ce3ff95c41c60e987e2b1aa247007f707884",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb"
+              "code": "f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "dddff67edfa7061f643ec5ae0be110169850363d"
+              "code": "dddff67edfa7061f643ec5ae0be110169850363d",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "78124d96a1a4601e7910f50e36a16e35efcfb398"
+              "code": "78124d96a1a4601e7910f50e36a16e35efcfb398",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "691739972eb3468cf16b25e84dafdeaa40dead6d"
+              "code": "691739972eb3468cf16b25e84dafdeaa40dead6d",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "50a8a13c474848d1efbd5586efdb5b6cdd173fa9"
+              "code": "50a8a13c474848d1efbd5586efdb5b6cdd173fa9",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "4141892f5df7d6474bf0279895ce02b7336c9928"
+              "code": "4141892f5df7d6474bf0279895ce02b7336c9928",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187"
+              "code": "1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187",
+              "quality": "HD"
             }
           ]
         },
@@ -765,35 +883,42 @@
           "key": "dazn2",
           "icon": "dazn2",
           "label": "DAZN 2",
-          "categoryLabel": "DAZN",
+          "idCategory": "dazn",
           "sources": [
             {
               "label": "sport tv",
-              "code": "b0eabe0fdd02fdd165896236765a9b753a2ff516"
+              "code": "b0eabe0fdd02fdd165896236765a9b753a2ff516",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "350bb4d726e2dd4dc4b2b17b59da783fdb07c11b"
+              "code": "350bb4d726e2dd4dc4b2b17b59da783fdb07c11b",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "01ce89b571b6c89bc19ccaafc913d483ac65c61d"
+              "code": "01ce89b571b6c89bc19ccaafc913d483ac65c61d",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "d60b8c154828cb990b7bb1570764b215bd979e74"
+              "code": "d60b8c154828cb990b7bb1570764b215bd979e74",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "8b081c8afbd9beafc8c5fbf0115eb36eadb07a35"
+              "code": "8b081c8afbd9beafc8c5fbf0115eb36eadb07a35",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "fb2dd566824658eeab27aae19a01c09430f1a97d"
+              "code": "fb2dd566824658eeab27aae19a01c09430f1a97d",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "2f9211669499f413dab1a490198afab2a9b4b57c"
+              "code": "2f9211669499f413dab1a490198afab2a9b4b57c",
+              "quality": "HD"
             }
           ]
         },
@@ -802,19 +927,22 @@
           "key": "dazn3",
           "icon": "dazn3",
           "label": "DAZN 3",
-          "categoryLabel": "DAZN",
+          "idCategory": "dazn",
           "sources": [
             {
               "label": "sport tv",
-              "code": "d1d9ec2361a6ac8edc0b2841866383768cc28df9"
+              "code": "d1d9ec2361a6ac8edc0b2841866383768cc28df9",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "908bc5e7ae52afc06e40793b6db749dba11a1780"
+              "code": "908bc5e7ae52afc06e40793b6db749dba11a1780",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "85fd2f5f6a38fead496a8e8697c874f459f92bab"
+              "code": "85fd2f5f6a38fead496a8e8697c874f459f92bab",
+              "quality": "HD"
             }
           ]
         },
@@ -823,23 +951,27 @@
           "key": "dazn4",
           "icon": "dazn4",
           "label": "DAZN 4",
-          "categoryLabel": "DAZN",
+          "idCategory": "dazn",
           "sources": [
             {
               "label": "sport tv",
-              "code": "7e90956539f4e1318a63f3960e4f75c7c7c5a3b8"
+              "code": "7e90956539f4e1318a63f3960e4f75c7c7c5a3b8",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "d669c6cee7173a1c8994075f7050a6526655b1dc"
+              "code": "d669c6cee7173a1c8994075f7050a6526655b1dc",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "9ced16b2055c99bf89c26e678e315e1b01d3734c"
+              "code": "9ced16b2055c99bf89c26e678e315e1b01d3734c",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "c015d37d1ead8155b1e7b97e743a1fe9850f0af5"
+              "code": "c015d37d1ead8155b1e7b97e743a1fe9850f0af5",
+              "quality": "HD"
             }
           ]
         }
@@ -855,75 +987,92 @@
           "key": "daznf1",
           "icon": "daznf1",
           "label": "DAZN F1",
-          "categoryLabel": "DAZN F1",
+          "idCategory": "daznf1",
           "sources": [
             {
               "label": "sport tv",
-              "code": "b04372b9543d763bd2dbd2a1842d9723fd080076"
+              "code": "b04372b9543d763bd2dbd2a1842d9723fd080076",
+              "quality": "HD"
             },
             {
               "label": "sport tv",
-              "code": "d65257bb934b73647374224fd62d836815804be2"
+              "code": "d65257bb934b73647374224fd62d836815804be2",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "27d11bbeb3026231d52de16b1fac48da7a099247"
+              "code": "27d11bbeb3026231d52de16b1fac48da7a099247",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "f16d68fa5ff64f3894a45062ca28e4e66f142c6a"
+              "code": "f16d68fa5ff64f3894a45062ca28e4e66f142c6a",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "20086a76248efe8d5230c15d41c69bae8fa6381c"
+              "code": "20086a76248efe8d5230c15d41c69bae8fa6381c",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "895d08633bb22c2573281655cf3ca44de476cc73"
+              "code": "895d08633bb22c2573281655cf3ca44de476cc73",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "0a81ba020d498aca1248e0591d8ffab99eb80bd4"
+              "code": "0a81ba020d498aca1248e0591d8ffab99eb80bd4",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "02be332ebead0484a5354fa25e97b6833b8b129e"
+              "code": "02be332ebead0484a5354fa25e97b6833b8b129e",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "f8b0eae8fda973cf426311541d1668aa592f0a8c"
+              "code": "f8b0eae8fda973cf426311541d1668aa592f0a8c",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d"
+              "code": "c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "6422e8bc34282871634c81947be093c04ad1bb29"
+              "code": "6422e8bc34282871634c81947be093c04ad1bb29",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "82b4f249788f93b8f9ce968803662d7cd4f1b8cc"
+              "code": "82b4f249788f93b8f9ce968803662d7cd4f1b8cc",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "d5cf2dfa4fb4165ce58bf9db815088c28fec7711"
+              "code": "d5cf2dfa4fb4165ce58bf9db815088c28fec7711",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "4bc6f4cb6697c1defc981c0afe1a4c3a62284aee"
+              "code": "4bc6f4cb6697c1defc981c0afe1a4c3a62284aee",
+              "quality": "HD"
             },
             {
               "label": "new era II",
-              "code": "b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd"
+              "code": "b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd",
+              "quality": "HD"
             },
             {
               "label": "new era III",
-              "code": "c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19"
+              "code": "c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19",
+              "quality": "HD"
             },
             {
               "label": "new era VI",
-              "code": "724f9b252b11064e3f16220717fd52bd3a510b5f"
+              "code": "724f9b252b11064e3f16220717fd52bd3a510b5f",
+              "quality": "HD"
             }
           ]
         }
@@ -939,31 +1088,37 @@
           "key": "daznmotogp",
           "icon": "daznmotogp",
           "label": "DAZN MotoGP",
-          "categoryLabel": "DAZN MotoGP",
+          "idCategory": "daznmotogp",
           "sources": [
             {
               "label": "elcano",
-              "code": "e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c"
+              "code": "e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "ac33342ccf7d40d46174229085461d95000b9137"
+              "code": "ac33342ccf7d40d46174229085461d95000b9137",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "c53bdb3be55d12c5188d25085f1bb16911c15cea"
+              "code": "c53bdb3be55d12c5188d25085f1bb16911c15cea",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "b18dda520e112e48a33d6d0ae558681b9ecfbb4d"
+              "code": "b18dda520e112e48a33d6d0ae558681b9ecfbb4d",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "11cbb5346d28af0b972e646832f4be23dd39502d"
+              "code": "11cbb5346d28af0b972e646832f4be23dd39502d",
+              "quality": "HD"
             },
             {
               "label": "new era VI",
-              "code": "18b03739d660f0066364343e226e437bf2555d56"
+              "code": "18b03739d660f0066364343e226e437bf2555d56",
+              "quality": "HD"
             }
           ]
         }
@@ -971,7 +1126,7 @@
     },
     {
       "id": "tdt",
-      "icon": "",
+      "icon": "tdt",
       "label": "TDT",
       "channels": [
         {
@@ -979,15 +1134,17 @@
           "key": "la1",
           "icon": "la14k",
           "label": "La 1",
-          "categoryLabel": "TDT",
+          "idCategory": "tdt",
           "sources": [
             {
               "label": "new era",
-              "code": "6a54f8fb00406c88f68ac3f3aabc7d084f9573d0"
+              "code": "6a54f8fb00406c88f68ac3f3aabc7d084f9573d0",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "7597d4feb3195079ffa606cf23a183d626ee40ba"
+              "code": "7597d4feb3195079ffa606cf23a183d626ee40ba",
+              "quality": "HD"
             }
           ]
         },
@@ -996,15 +1153,17 @@
           "key": "la2",
           "icon": "la2",
           "label": "La 2",
-          "categoryLabel": "TDT",
+          "idCategory": "tdt",
           "sources": [
             {
               "label": "elcano",
-              "code": "1acd38e6176c782f5184c8736e0cf7127b65798b"
+              "code": "1acd38e6176c782f5184c8736e0cf7127b65798b",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "9934906503661142f97a044ae1509a294057c2ed"
+              "code": "9934906503661142f97a044ae1509a294057c2ed",
+              "quality": "HD"
             }
           ]
         },
@@ -1013,11 +1172,12 @@
           "key": "cuatro",
           "icon": "cuatro",
           "label": "Cuatro",
-          "categoryLabel": "TDT",
+          "idCategory": "tdt",
           "sources": [
             {
               "label": "new era",
-              "code": "8d66979e705a8b532b9243bbc0862c0f1c734ef0"
+              "code": "8d66979e705a8b532b9243bbc0862c0f1c734ef0",
+              "quality": "HD"
             }
           ]
         },
@@ -1026,11 +1186,12 @@
           "key": "lasexta",
           "icon": "lasexta",
           "label": "La Sexta",
-          "categoryLabel": "TDT",
+          "idCategory": "tdt",
           "sources": [
             {
               "label": "new era",
-              "code": "44828a7580cd99fcb36245c327889c47f34b457f"
+              "code": "44828a7580cd99fcb36245c327889c47f34b457f",
+              "quality": "HD"
             }
           ]
         },
@@ -1039,15 +1200,17 @@
           "key": "teledeporte",
           "icon": "teledeporte",
           "label": "Teledeporte",
-          "categoryLabel": "TDT",
+          "idCategory": "tdt",
           "sources": [
             {
               "label": "elcano",
-              "code": "b0d1489c9f3239349665ad5ab423363f2b02e5ae"
+              "code": "b0d1489c9f3239349665ad5ab423363f2b02e5ae",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "2d997da301573c5aba78f969d0d37eb6107941b2"
+              "code": "2d997da301573c5aba78f969d0d37eb6107941b2",
+              "quality": "HD"
             }
           ]
         },
@@ -1056,15 +1219,17 @@
           "key": "golplay",
           "icon": "golplay",
           "label": "Gol Play",
-          "categoryLabel": "TDT",
+          "idCategory": "tdt",
           "sources": [
             {
               "label": "new era",
-              "code": "9fb99c40a2c45d5c5342b30626eb56140f980612"
+              "code": "9fb99c40a2c45d5c5342b30626eb56140f980612",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "b2d560741c006fc5e4a42412bb52dbd25a6a4a3a"
+              "code": "b2d560741c006fc5e4a42412bb52dbd25a6a4a3a",
+              "quality": "HD"
             }
           ]
         },
@@ -1073,11 +1238,12 @@
           "key": "comedycentral",
           "icon": "comedycentral",
           "label": "Comedy Central",
-          "categoryLabel": "TDT",
+          "idCategory": "tdt",
           "sources": [
             {
               "label": "new era III",
-              "code": "e1c2c2a74a3688066526e5ff212e13d2101f44ad"
+              "code": "e1c2c2a74a3688066526e5ff212e13d2101f44ad",
+              "quality": "HD"
             }
           ]
         },
@@ -1086,11 +1252,12 @@
           "key": "disneychannel",
           "icon": "disneychannel",
           "label": "Disney Channel",
-          "categoryLabel": "TDT",
+          "idCategory": "tdt",
           "sources": [
             {
               "label": "new era III",
-              "code": "94f87e54d3ad4660c800d2ec46b14ba29e0186cc"
+              "code": "94f87e54d3ad4660c800d2ec46b14ba29e0186cc",
+              "quality": "HD"
             }
           ]
         }
@@ -1104,74 +1271,88 @@
         {
           "id": "0",
           "key": "eurosport1",
-          "icon": "eurosport",
+          "icon": "eurosport1",
           "label": "Eurosport 1",
-          "categoryLabel": "Eurosport",
+          "idCategory": "eurosport",
           "sources": [
             {
               "label": "elcano",
-              "code": "313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153"
+              "code": "313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "8522af51ae7189b12effabbb448dcb707195ce1a"
+              "code": "8522af51ae7189b12effabbb448dcb707195ce1a",
+              "quality": "HD"
             },
             {
               "label": "new loop",
-              "code": "b7975e28c67ed7c5831b097944761623bd52baf5"
+              "code": "b7975e28c67ed7c5831b097944761623bd52baf5",
+              "quality": "HD"
             },
             {
               "label": "new loop",
-              "code": "547ab7146a86d6119c9332c011669544720124e3"
+              "code": "547ab7146a86d6119c9332c011669544720124e3",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "bae98f69fbf867550b4f73b4eb176dae84d7f909"
+              "code": "bae98f69fbf867550b4f73b4eb176dae84d7f909",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "714e14e6d6e27660fd25a75b57b0ac5580fe705d"
+              "code": "714e14e6d6e27660fd25a75b57b0ac5580fe705d",
+              "quality": "HD"
             },
             {
               "label": "new era III",
-              "code": "62a5750be4d2218b1064f83afaac4770fd92350d"
+              "code": "62a5750be4d2218b1064f83afaac4770fd92350d",
+              "quality": "HD"
             }
           ]
         },
         {
           "id": "1",
           "key": "eurosport2",
-          "icon": "eurosport",
+          "icon": "eurosport2",
           "label": "Eurosport 2",
-          "categoryLabel": "Eurosport",
+          "idCategory": "eurosport",
           "sources": [
             {
               "label": "sport tv",
-              "code": "6176281b9c46a5621a0e88524f8dc621f173b8e0"
+              "code": "6176281b9c46a5621a0e88524f8dc621f173b8e0",
+              "quality": "HD"
             },
             {
               "label": "sport tv",
-              "code": "7aa9cc819c6fa781dea6b4de3aa5393258b766d8"
+              "code": "7aa9cc819c6fa781dea6b4de3aa5393258b766d8",
+              "quality": "HD"
             },
             {
               "label": "sport tv",
-              "code": "ac675c82d6dfd4a201532c18b42e48dacb7c32c6"
+              "code": "ac675c82d6dfd4a201532c18b42e48dacb7c32c6",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "7152d5f5fdb2184c88c2bb433d8b8f619cdc16b2"
+              "code": "7152d5f5fdb2184c88c2bb433d8b8f619cdc16b2",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "3ebcfc00921a4a9307dec97e078f8dc12eee27e7"
+              "code": "3ebcfc00921a4a9307dec97e078f8dc12eee27e7",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "c6180a86440004748e2abe34d6f31eed8a218a3a"
+              "code": "c6180a86440004748e2abe34d6f31eed8a218a3a",
+              "quality": "HD"
             },
             {
               "label": "new era III",
-              "code": "32fcf8e1513049ef9f90d08ba9040fe34b01d9fd"
+              "code": "32fcf8e1513049ef9f90d08ba9040fe34b01d9fd",
+              "quality": "HD"
             }
           ]
         }
@@ -1185,29 +1366,34 @@
         {
           "id": "0",
           "key": "mplus",
-          "icon": "m",
+          "icon": "mplus",
           "label": "M+ Plus",
-          "categoryLabel": "M+ Varios",
+          "idCategory": "mvarious",
           "sources": [
             {
               "label": "elcano",
-              "code": "ed74406ccdb3c21941b919db6bffca7f1de015bb"
+              "code": "ed74406ccdb3c21941b919db6bffca7f1de015bb",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78"
+              "code": "1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
+              "quality": "HD"
             },
             {
               "label": "new era",
-              "code": "8c67cdb5ba81976662c3a67984a9545d9cfb0f70"
+              "code": "8c67cdb5ba81976662c3a67984a9545d9cfb0f70",
+              "quality": "HD"
             },
             {
               "label": "new era III",
-              "code": "fa931cbc87dc9d66fdd30a9644e054b403960056"
+              "code": "fa931cbc87dc9d66fdd30a9644e054b403960056",
+              "quality": "HD"
             },
             {
               "label": "new era VI",
-              "code": "c1b7f54af0de256d1ac0fcac4c130e62660089f4"
+              "code": "c1b7f54af0de256d1ac0fcac4c130e62660089f4",
+              "quality": "HD"
             }
           ]
         },
@@ -1216,11 +1402,12 @@
           "key": "calle13",
           "icon": "calle13",
           "label": "Calle 13",
-          "categoryLabel": "M+ Varios",
+          "idCategory": "mvarious",
           "sources": [
             {
               "label": "new era III",
-              "code": "296007b6a8c2ea9ceb7d6528f5e5e109c3142fa0"
+              "code": "296007b6a8c2ea9ceb7d6528f5e5e109c3142fa0",
+              "quality": "HD"
             }
           ]
         },
@@ -1229,11 +1416,12 @@
           "key": "canalcocina",
           "icon": "canalcocina",
           "label": "Canal Cocina",
-          "categoryLabel": "M+ Varios",
+          "idCategory": "mvarious",
           "sources": [
             {
               "label": "new era",
-              "code": "96f092e1fa99062f6da14cae230b877ad3ed849b"
+              "code": "96f092e1fa99062f6da14cae230b877ad3ed849b",
+              "quality": "HD"
             }
           ]
         },
@@ -1242,132 +1430,143 @@
           "key": "dark",
           "icon": "dark",
           "label": "Dark",
-          "categoryLabel": "M+ Varios",
+          "idCategory": "mvarious",
           "sources": [
             {
               "label": "new era III",
-              "code": "fd7e013b1827db32af3665d1ef5da7fc0cc6ae5d"
+              "code": "fd7e013b1827db32af3665d1ef5da7fc0cc6ae5d",
+              "quality": "HD"
             }
           ]
         },
         {
           "id": "4",
-          "key": "mcineespanol",
-          "icon": "mcineespanol",
-          "label": "M+ Cine Español",
-          "categoryLabel": "M+ Varios",
+          "key": "nickelodeon",
+          "icon": "nickelodeon",
+          "label": "Nickelodeon",
+          "idCategory": "mvarious",
           "sources": [
             {
               "label": "new era III",
-              "code": "f4e37b63fb042d90528585741a39851af543deca"
+              "code": "3f2b6ac892758f5f3574f649ba9c486b341ca20e",
+              "quality": "HD"
             }
           ]
         },
         {
           "id": "5",
-          "key": "mcomedia",
-          "icon": "mcomedia",
-          "label": "M+ Comedia",
-          "categoryLabel": "M+ Varios",
+          "key": "maccion",
+          "icon": "maccion",
+          "label": "M+ Acción",
+          "idCategory": "mvarious",
           "sources": [
             {
               "label": "new era III",
-              "code": "e8cd9088fee41413df360e4539c9e7184a63ffcb"
+              "code": "f3a6d058791f0818a3301f9d5eeb60cfb54d905d",
+              "quality": "HD"
             }
           ]
         },
         {
           "id": "6",
-          "key": "mdocumentales",
-          "icon": "mdocumentales",
-          "label": "M+ Documentales",
-          "categoryLabel": "M+ Varios",
+          "key": "mcineespanol",
+          "icon": "mcineespanol",
+          "label": "M+ Cine Español",
+          "idCategory": "mvarious",
           "sources": [
             {
               "label": "new era III",
-              "code": "6317bdcbe852dce829e5c647cce4da04a7dcb7f5"
+              "code": "f4e37b63fb042d90528585741a39851af543deca",
+              "quality": "HD"
             }
           ]
         },
         {
           "id": "7",
-          "key": "mestrenos",
-          "icon": "mestrenos",
-          "label": "M+ Estrenos",
-          "categoryLabel": "M+ Varios",
+          "key": "mcomedia",
+          "icon": "mcomedia",
+          "label": "M+ Comedia",
+          "idCategory": "mvarious",
           "sources": [
             {
               "label": "new era III",
-              "code": "007a97a0aff68eb9a76f7fb9d9643b1532ab0803"
-            },
-            {
-              "label": "new era III",
-              "code": "fe6dead974cebbb7626458a763ff0e2150dffbe0"
+              "code": "e8cd9088fee41413df360e4539c9e7184a63ffcb",
+              "quality": "HD"
             }
           ]
         },
         {
           "id": "8",
-          "key": "mhits",
-          "icon": "mhits",
-          "label": "M+ Hits",
-          "categoryLabel": "M+ Varios",
+          "key": "mdocumentales",
+          "icon": "mdocumentales",
+          "label": "M+ Documentales",
+          "idCategory": "mvarious",
           "sources": [
             {
               "label": "new era III",
-              "code": "0bb012ac0e815b413831687a4a9b61777b3338f4"
+              "code": "6317bdcbe852dce829e5c647cce4da04a7dcb7f5",
+              "quality": "HD"
             }
           ]
         },
         {
           "id": "9",
-          "key": "moriginales",
-          "icon": "moriginales",
-          "label": "M+ Originales",
-          "categoryLabel": "M+ Varios",
+          "key": "mestrenos",
+          "icon": "mestrenos",
+          "label": "M+ Estrenos",
+          "idCategory": "mvarious",
           "sources": [
             {
               "label": "new era III",
-              "code": "60a59a6259b6d4cb5b826e1847cd0af0a7ecc1ce"
+              "code": "007a97a0aff68eb9a76f7fb9d9643b1532ab0803",
+              "quality": "HD"
+            },
+            {
+              "label": "new era III",
+              "code": "fe6dead974cebbb7626458a763ff0e2150dffbe0",
+              "quality": "HD"
             }
           ]
         },
         {
           "id": "10",
-          "key": "mfanzone",
-          "icon": "mfanzone",
-          "label": "M+ Fanzone",
-          "categoryLabel": "M+ Varios",
+          "key": "mhits",
+          "icon": "mhits",
+          "label": "M+ Hits",
+          "idCategory": "mvarious",
           "sources": [
             {
               "label": "new era III",
-              "code": "7aca5ddc8a21542b23fe51064504a2e600b6a6b5"
+              "code": "0bb012ac0e815b413831687a4a9b61777b3338f4",
+              "quality": "HD"
             }
           ]
         },
         {
           "id": "11",
-          "key": "nickelodeon",
-          "icon": "nickelodeon",
-          "label": "Nickelodeon",
-          "categoryLabel": "M+ Varios",
+          "key": "moriginales",
+          "icon": "moriginales",
+          "label": "M+ Originales",
+          "idCategory": "mvarious",
           "sources": [
             {
               "label": "new era III",
-              "code": "3f2b6ac892758f5f3574f649ba9c486b341ca20e"
+              "code": "60a59a6259b6d4cb5b826e1847cd0af0a7ecc1ce",
+              "quality": "HD"
             }
           ]
         },
         {
           "id": "12",
-          "key": "maccion",
-          "icon": "maccion",
-          "label": "M+ Acción",
-          "categoryLabel": "M+ Varios",
+          "key": "mfanzone",
+          "icon": "mfanzone",
+          "label": "M+ Fanzone",
+          "idCategory": "mvarious",
           "sources": [
             {
               "label": "new era III",
-              "code": "f3a6d058791f0818a3301f9d5eeb60cfb54d905d"
+              "code": "7aca5ddc8a21542b23fe51064504a2e600b6a6b5",
+              "quality": "HD"
             }
           ]
         }
@@ -1383,11 +1582,12 @@
           "key": "canaldetenis",
           "icon": "others",
           "label": "Canal de Tenis",
-          "categoryLabel": "Otros",
+          "idCategory": "others",
           "sources": [
             {
               "label": "sport tv",
-              "code": "039fae21c9e7e5214d3d898cba80863e37e623ac"
+              "code": "039fae21c9e7e5214d3d898cba80863e37e623ac",
+              "quality": "HD"
             }
           ]
         },
@@ -1396,11 +1596,12 @@
           "key": "supertennis",
           "icon": "others",
           "label": "Supertennis",
-          "categoryLabel": "Otros",
+          "idCategory": "others",
           "sources": [
             {
               "label": "sport tv",
-              "code": "b58dbf92765976b308695f62dea94b00b40730ee"
+              "code": "b58dbf92765976b308695f62dea94b00b40730ee",
+              "quality": "HD"
             }
           ]
         },
@@ -1409,11 +1610,12 @@
           "key": "tennischannel",
           "icon": "others",
           "label": "Tennis Channel",
-          "categoryLabel": "Otros",
+          "idCategory": "others",
           "sources": [
             {
               "label": "new loop",
-              "code": "8091334c82e8720fc6aa05ff0bd6d343c5bfecbf"
+              "code": "8091334c82e8720fc6aa05ff0bd6d343c5bfecbf",
+              "quality": "HD"
             }
           ]
         },
@@ -1422,11 +1624,12 @@
           "key": "automotorundsportchannel",
           "icon": "others",
           "label": "Auto Motor Und Sport Channel",
-          "categoryLabel": "Otros",
+          "idCategory": "others",
           "sources": [
             {
               "label": "new loop",
-              "code": "a211931dace9e4d8975a036b60836fac753e33de"
+              "code": "a211931dace9e4d8975a036b60836fac753e33de",
+              "quality": "HD"
             }
           ]
         },
@@ -1435,11 +1638,12 @@
           "key": "canalmotor",
           "icon": "others",
           "label": "Canal Motor",
-          "categoryLabel": "Otros",
+          "idCategory": "others",
           "sources": [
             {
               "label": "new loop",
-              "code": "35e17cc84abc5e393b5acd688536a9681105f2d5"
+              "code": "35e17cc84abc5e393b5acd688536a9681105f2d5",
+              "quality": "HD"
             }
           ]
         },
@@ -1448,11 +1652,12 @@
           "key": "motorstv",
           "icon": "others",
           "label": "Motors TV",
-          "categoryLabel": "Otros",
+          "idCategory": "others",
           "sources": [
             {
               "label": "new loop",
-              "code": "442aeb6643b8836f9d00361c9e48eeb0841ddf98"
+              "code": "442aeb6643b8836f9d00361c9e48eeb0841ddf98",
+              "quality": "HD"
             }
           ]
         },
@@ -1461,11 +1666,12 @@
           "key": "motorvision",
           "icon": "others",
           "label": "Motorvision",
-          "categoryLabel": "Otros",
+          "idCategory": "others",
           "sources": [
             {
               "label": "new loop",
-              "code": "9c75e6ed0671eec6670cb2eabcc7d78267c7f404"
+              "code": "9c75e6ed0671eec6670cb2eabcc7d78267c7f404",
+              "quality": "HD"
             }
           ]
         },
@@ -1474,15 +1680,17 @@
           "key": "plutotvautomotorsport",
           "icon": "others",
           "label": "Pluto TV Auto Motor Sport",
-          "categoryLabel": "Otros",
+          "idCategory": "others",
           "sources": [
             {
               "label": "new loop",
-              "code": "ffa09e597804001f634dd1829f031823411a2595"
+              "code": "ffa09e597804001f634dd1829f031823411a2595",
+              "quality": "HD"
             },
             {
               "label": "new loop",
-              "code": "93780e4164ed775a9a7cd67c44716de58463fa0a"
+              "code": "93780e4164ed775a9a7cd67c44716de58463fa0a",
+              "quality": "HD"
             }
           ]
         },
@@ -1491,11 +1699,12 @@
           "key": "rallytv",
           "icon": "others",
           "label": "Rally TV",
-          "categoryLabel": "Otros",
+          "idCategory": "others",
           "sources": [
             {
               "label": "elcano",
-              "code": "12404b00d2787995d639ccf71a80da5d39d153f9"
+              "code": "12404b00d2787995d639ccf71a80da5d39d153f9",
+              "quality": "HD"
             }
           ]
         },
@@ -1504,11 +1713,12 @@
           "key": "retrovisionmotor",
           "icon": "others",
           "label": "Retrovision Motor",
-          "categoryLabel": "Otros",
+          "idCategory": "others",
           "sources": [
             {
               "label": "new loop",
-              "code": "b8b8c4470d3d27c75302cf49ab6c4b52a660bff3"
+              "code": "b8b8c4470d3d27c75302cf49ab6c4b52a660bff3",
+              "quality": "HD"
             }
           ]
         },
@@ -1517,11 +1727,12 @@
           "key": "canal11rfef",
           "icon": "others",
           "label": "Canal 1 (1RFEF)",
-          "categoryLabel": "Otros",
+          "idCategory": "others",
           "sources": [
             {
               "label": "new era V",
-              "code": "c1ee6e1e0ef5928d8261f855c417de21794f437d"
+              "code": "c1ee6e1e0ef5928d8261f855c417de21794f437d",
+              "quality": "HD"
             }
           ]
         },
@@ -1530,23 +1741,27 @@
           "key": "rfeftv",
           "icon": "others",
           "label": "RFEF TV",
-          "categoryLabel": "Otros",
+          "idCategory": "others",
           "sources": [
             {
               "label": "elcano",
-              "code": "7b742628b9f7e82902bdbc1ff92eba1988875cfc"
+              "code": "7b742628b9f7e82902bdbc1ff92eba1988875cfc",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "177796041773be99b489dd3ce86144f243e7355f"
+              "code": "177796041773be99b489dd3ce86144f243e7355f",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "3fbc1b7dc316f19b77e7f7cfc775a0af67adcc7f"
+              "code": "3fbc1b7dc316f19b77e7f7cfc775a0af67adcc7f",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "854ff9c607101791346111cd2366a392c3b8c351"
+              "code": "854ff9c607101791346111cd2366a392c3b8c351",
+              "quality": "HD"
             }
           ]
         },
@@ -1555,11 +1770,12 @@
           "key": "canal21rfef",
           "icon": "others",
           "label": "Canal 2 (1RFEF)",
-          "categoryLabel": "Otros",
+          "idCategory": "others",
           "sources": [
             {
               "label": "new era V",
-              "code": "8677d339ecddd75165c0015025f598b6215974cf"
+              "code": "8677d339ecddd75165c0015025f598b6215974cf",
+              "quality": "HD"
             }
           ]
         }
