@@ -112,8 +112,8 @@
       "channels": [
         {
           "id": "0",
-          "key": "daznlaliga",
-          "icon": "daznlaliga",
+          "key": "daznlaliga1",
+          "icon": "daznlaliga1",
           "label": "DAZN LaLiga",
           "idCategory": "daznlaliga",
           "sources": [
